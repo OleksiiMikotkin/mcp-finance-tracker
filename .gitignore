@@ -16,3 +16,8 @@ Thumbs.db
 
 ## Secrets
 .env
+
+## Runtime data
+*.db
+*.db-shm
+*.db-wal
