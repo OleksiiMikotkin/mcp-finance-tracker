@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Mcp.FinanceTracker.Data/Mcp.FinanceTracker.Data.csproj" />
+  <Project Path="Mcp.FinanceTracker.DataGen/Mcp.FinanceTracker.DataGen.csproj" />
   <Project Path="Mcp.FinanceTracker.Server/Mcp.FinanceTracker.Server.csproj" />
 </Solution>

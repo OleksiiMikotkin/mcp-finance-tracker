@@ -187,6 +187,11 @@ URL, localhost не подойдёт для внешних клиентов ти
   и без auth. Проверить через MCP Inspector, что вызов tool работает
   end-to-end.
 - **M1.** SQLite + доменные tools (транзакции CRUD) + Resources.
+  Data access — сырой `Microsoft.Data.Sqlite` (без ORM, `SqliteConnection`/
+  `SqliteCommand` напрямую), осознанный выбор: максимум контроля над SQL и
+  минимум зависимостей для pet-проекта такого размера; аналитические tools
+  (group-by/aggregate) пишутся как обычный SQL, что естественнее, чем через
+  LINQ-провайдер EF Core.
 - **M2.** Auth вариант 1 (Entra ID/Identity.Web). Токен валидируется,
   scope/role влияет на видимость tools.
 - **M3 (опционально, отдельная веха).** Auth вариант 2 — OAuth 2.1 с нуля,

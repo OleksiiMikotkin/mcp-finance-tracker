@@ -11,4 +11,8 @@
     <PackageReference Include="ModelContextProtocol.AspNetCore" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mcp.FinanceTracker.Data\Mcp.FinanceTracker.Data.csproj" />
+  </ItemGroup>
+
 </Project>
