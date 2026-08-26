@@ -25,6 +25,12 @@ internal sealed class SqliteFinanceAnalyticsQueries : IFinanceAnalyticsQueries
         return rows.Sum(r => r.Amount);
     }
 
+    public async Task<decimal> GetAccountBalance(string account)
+    {
+        var rows = await this.QueryRowsAsync("AND Account = $account", ("$account", account));
+        return rows.Sum(r => r.Amount);
+    }
+
     public async Task<BudgetStatus> GetBudgetStatus(string category)
     {
         await using var connection = await this.connectionFactory.OpenConnectionAsync();

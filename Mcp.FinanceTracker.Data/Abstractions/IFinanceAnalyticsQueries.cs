@@ -6,6 +6,8 @@ public interface IFinanceAnalyticsQueries
 {
     Task<decimal> GetBalance();
 
+    Task<decimal> GetAccountBalance(string account);
+
     Task<BudgetStatus> GetBudgetStatus(string category);
 
     Task<IReadOnlyList<CategoryTotal>> GetTopCategories(DateTime startDate, DateTime endDate, int limit = 5);

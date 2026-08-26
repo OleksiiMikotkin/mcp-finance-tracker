@@ -8,7 +8,8 @@ builder.Services.AddFinanceData(databasePath);
 builder.Services
     .AddMcpServer()
     .WithHttpTransport()
-    .WithToolsFromAssembly();
+    .WithToolsFromAssembly()
+    .WithResourcesFromAssembly();
 
 var app = builder.Build();
 
