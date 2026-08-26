@@ -195,7 +195,8 @@ URL, localhost не подойдёт для внешних клиентов ти
   сознательно вынесены из M1 в отдельные вехи ниже (M2, M3) — чтобы не
   смешивать "разобраться с примитивом tools" и "разобраться с примитивом
   resources/prompts" в одном шаге.
-- **M2.** Resources: `finance://account/{id}`, `finance://transactions/{period}`
+- **M2. (done)** Resources: `finance://accounts` (статичный листинг для
+  discoverability), `finance://account/{id}`, `finance://transactions/{period}`
   — данные, которые клиент может подгрузить без явного tool-вызова.
 - **M3.** Prompt: минимум 1 штука с содержательной ролью — правила тона/
   эскалации ("на ты", вежливый отказ на out-of-scope, направление к
