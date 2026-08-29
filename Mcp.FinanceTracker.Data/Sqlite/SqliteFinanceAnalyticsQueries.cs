@@ -265,7 +265,7 @@ internal sealed class SqliteFinanceAnalyticsQueries : IFinanceAnalyticsQueries
             upcomingTotal, upcomingIncome, projectedNet, upcomingItems);
     }
 
-    public async Task<IReadOnlyList<SuspiciousTransaction>> DetectSuspiciousTransactions()
+    public async Task<IReadOnlyList<SuspiciousTransaction>> DetectSuspiciousTransactions(DateTime? startDate = null, DateTime? endDate = null)
     {
         var allExpenses = await this.QueryRowsAsync("AND Amount < 0 AND Recurring = 0");
         if (allExpenses.Count < 5)
@@ -273,19 +273,31 @@ internal sealed class SqliteFinanceAnalyticsQueries : IFinanceAnalyticsQueries
             return [];
         }
 
+        // Baseline is always computed from the full history, even when the result is scoped to a
+        // period below — a shorter window gives too few data points for a reliable mean/stdDev.
         var mean = allExpenses.Average(r => r.Amount);
         var variance = allExpenses.Sum(r => (r.Amount - mean) * (r.Amount - mean)) / (allExpenses.Count - 1);
         var stdDev = (decimal)Math.Sqrt((double)variance);
         var threshold = mean - (2 * stdDev); // more negative = larger charge
 
-        return allExpenses
-            .Where(r => r.Account == "credit_card" && r.Amount < threshold)
+        var flagged = allExpenses.Where(r => r.Account == "credit_card" && r.Amount < threshold);
+        if (startDate is not null)
+        {
+            flagged = flagged.Where(r => r.Date >= startDate.Value);
+        }
+
+        if (endDate is not null)
+        {
+            flagged = flagged.Where(r => r.Date < endDate.Value.AddDays(1));
+        }
+
+        return flagged
             .OrderBy(r => r.Amount)
             .Select(r => new SuspiciousTransaction(r.Id, r.Date, r.Merchant, r.Amount, r.Category))
             .ToList();
     }
 
-    public async Task<IReadOnlyList<ImpossibleTravelFlag>> DetectImpossibleTravel()
+    public async Task<IReadOnlyList<ImpossibleTravelFlag>> DetectImpossibleTravel(DateTime? startDate = null, DateTime? endDate = null)
     {
         var rows = await this.QueryRowsAsync("");
         var sorted = rows.OrderBy(r => r.Date).ToList();
@@ -308,7 +320,18 @@ internal sealed class SqliteFinanceAnalyticsQueries : IFinanceAnalyticsQueries
             }
         }
 
-        return flags;
+        IEnumerable<ImpossibleTravelFlag> result = flags;
+        if (startDate is not null)
+        {
+            result = result.Where(f => f.SecondDate >= startDate.Value);
+        }
+
+        if (endDate is not null)
+        {
+            result = result.Where(f => f.SecondDate < endDate.Value.AddDays(1));
+        }
+
+        return result.ToList();
     }
 
     private static decimal Median(List<decimal> sortedValues)

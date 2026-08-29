@@ -28,7 +28,7 @@ public interface IFinanceAnalyticsQueries
 
     Task<MonthEndProjection> ProjectMonthEndBalance();
 
-    Task<IReadOnlyList<SuspiciousTransaction>> DetectSuspiciousTransactions();
+    Task<IReadOnlyList<SuspiciousTransaction>> DetectSuspiciousTransactions(DateTime? startDate = null, DateTime? endDate = null);
 
-    Task<IReadOnlyList<ImpossibleTravelFlag>> DetectImpossibleTravel();
+    Task<IReadOnlyList<ImpossibleTravelFlag>> DetectImpossibleTravel(DateTime? startDate = null, DateTime? endDate = null);
 }

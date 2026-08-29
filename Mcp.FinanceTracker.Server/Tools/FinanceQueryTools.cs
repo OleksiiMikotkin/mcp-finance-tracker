@@ -137,16 +137,22 @@ public sealed class FinanceQueryTools
     [McpServerTool(Name = "detect_suspicious_transactions")]
     [Description(
         "Flag credit-card transactions that are statistical outliers compared to normal spending — candidates for " +
-        "fraud. Use when the user reports an unrecognised charge or asks about account security. Never state a " +
-        "transaction is confirmed fraud; only surface it for the user to review.")]
-    public Task<IReadOnlyList<SuspiciousTransaction>> DetectSuspiciousTransactions()
-        => this.analytics.DetectSuspiciousTransactions();
+        "fraud. The outlier threshold is always computed from the full transaction history for statistical " +
+        "reliability, even when startDate/endDate narrow which flagged transactions are returned. Use when the " +
+        "user reports an unrecognised charge or asks about account security. Never state a transaction is " +
+        "confirmed fraud; only surface it for the user to review.")]
+    public Task<IReadOnlyList<SuspiciousTransaction>> DetectSuspiciousTransactions(
+        [Description("Optional inclusive start date, YYYY-MM-DD, to only return flags from this period onward.")] DateTime? startDate = null,
+        [Description("Optional inclusive end date, YYYY-MM-DD, to only return flags up to this period.")] DateTime? endDate = null)
+        => this.analytics.DetectSuspiciousTransactions(startDate, endDate);
 
     [McpServerTool(Name = "detect_impossible_travel")]
     [Description(
         "Flag pairs of chronologically adjacent transactions that occurred in different countries within an " +
         "implausibly short time window (under 24 hours) — a classic fraud signal. Use alongside " +
         "detect_suspicious_transactions when investigating a reported unrecognised charge.")]
-    public Task<IReadOnlyList<ImpossibleTravelFlag>> DetectImpossibleTravel()
-        => this.analytics.DetectImpossibleTravel();
+    public Task<IReadOnlyList<ImpossibleTravelFlag>> DetectImpossibleTravel(
+        [Description("Optional inclusive start date, YYYY-MM-DD, to only return flags whose later transaction falls on or after this date.")] DateTime? startDate = null,
+        [Description("Optional inclusive end date, YYYY-MM-DD, to only return flags whose later transaction falls on or before this date.")] DateTime? endDate = null)
+        => this.analytics.DetectImpossibleTravel(startDate, endDate);
 }
