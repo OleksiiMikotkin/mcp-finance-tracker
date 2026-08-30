@@ -3,7 +3,7 @@ using System.Globalization;
 using ModelContextProtocol;
 using ModelContextProtocol.Server;
 
-namespace Mcp.FinanceTracker.Server.Prompts;
+namespace Mcp.FinanceTracker.Server.Protocol.Prompts;
 
 [McpServerPromptType]
 public sealed class FinancePrompts

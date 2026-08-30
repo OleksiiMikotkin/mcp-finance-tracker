@@ -4,7 +4,7 @@ using Mcp.FinanceTracker.Data.Models;
 using ModelContextProtocol;
 using ModelContextProtocol.Server;
 
-namespace Mcp.FinanceTracker.Server.Tools;
+namespace Mcp.FinanceTracker.Server.Protocol.Tools;
 
 [McpServerToolType]
 public sealed class FinanceQueryTools

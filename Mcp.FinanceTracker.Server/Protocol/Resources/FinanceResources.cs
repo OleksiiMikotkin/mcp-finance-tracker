@@ -7,7 +7,7 @@ using ModelContextProtocol;
 using ModelContextProtocol.Protocol;
 using ModelContextProtocol.Server;
 
-namespace Mcp.FinanceTracker.Server.Resources;
+namespace Mcp.FinanceTracker.Server.Protocol.Resources;
 
 [McpServerResourceType]
 public sealed class FinanceResources

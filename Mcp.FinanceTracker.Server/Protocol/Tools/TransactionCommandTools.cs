@@ -3,7 +3,7 @@ using System.Globalization;
 using Mcp.FinanceTracker.Data.Abstractions;
 using ModelContextProtocol.Server;
 
-namespace Mcp.FinanceTracker.Server.Tools;
+namespace Mcp.FinanceTracker.Server.Protocol.Tools;
 
 [McpServerToolType]
 public sealed class TransactionCommandTools
