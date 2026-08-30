@@ -20,17 +20,15 @@ public sealed class FinancePrompts
         var endText = monthEnd.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture);
 
         return $"""
-            Please put together my financial review for {monthStart:yyyy-MM}. Use these tools, in this order, and
-            structure your answer under matching headings:
+            Please put together my financial review for {monthStart:yyyy-MM} — covering the period from
+            {startText} to {endText}.
 
-            1. get_balance — current overall balance.
-            2. get_top_categories with startDate={startText} and endDate={endText} — where the money went.
-            3. get_budget_status for every category that has a budget set — flag anything over budget.
-            4. detect_subscriptions with onlyForgotten=true — subscriptions that look forgotten.
-            5. analyze_weekend_spending — weekday vs weekend habits.
-            6. project_month_end_balance — where the month is likely to end up.
+            Cover: my overall balance, where the money went this month (top spending categories), how I'm
+            tracking against any budgets I've set, whether any subscriptions look forgotten, how weekday
+            spending compares to weekends, and a projection of where the month will land.
 
-            Keep each section short (2-3 sentences) with the concrete numbers, not just the raw tool output.
+            Structure the answer under short headings with concrete numbers, not raw tool output — 2-3
+            sentences per section.
             """;
     }
 
@@ -42,11 +40,13 @@ public sealed class FinancePrompts
         [Description("Optional calendar month to focus on, format YYYY-MM. If omitted, checks the full transaction history.")] string? month = null)
     {
         var scope = string.IsNullOrWhiteSpace(month)
-            ? "across the full transaction history — call detect_suspicious_transactions and detect_impossible_travel with no date filter"
+            ? "across my full transaction history"
             : FormatScopedInstruction(month);
 
         return $"""
-            I'm concerned about possible fraud on my credit card. Please investigate {scope}.
+            I'm concerned about possible fraud on my credit card. Please investigate {scope}, using the fraud
+            detectors available to you (statistical outliers in card spending, and impossible-travel patterns
+            across transactions).
 
             Explain what you find calmly and factually — never state that a transaction is confirmed fraud, only
             that it looks unusual and worth reviewing. If anything looks suspicious, tell me to contact my card
@@ -59,8 +59,7 @@ public sealed class FinancePrompts
         var (monthStart, monthEnd) = ResolveMonth(month);
         var startText = monthStart.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture);
         var endText = monthEnd.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture);
-        return $"for {monthStart:yyyy-MM} — call detect_suspicious_transactions and detect_impossible_travel " +
-               $"with startDate={startText} and endDate={endText}";
+        return $"for {monthStart:yyyy-MM} — transactions dated between {startText} and {endText}";
     }
 
     private static (DateTime MonthStart, DateTime MonthEnd) ResolveMonth(string? month)
