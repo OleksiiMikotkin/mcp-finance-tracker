@@ -3,6 +3,7 @@ using System.Globalization;
 using System.Text.Json;
 using Mcp.FinanceTracker.Data.Abstractions;
 using Mcp.FinanceTracker.Data.Common;
+using Microsoft.AspNetCore.Authorization;
 using ModelContextProtocol;
 using ModelContextProtocol.Protocol;
 using ModelContextProtocol.Server;
@@ -10,6 +11,7 @@ using ModelContextProtocol.Server;
 namespace Mcp.FinanceTracker.Server.Protocol.Resources;
 
 [McpServerResourceType]
+[Authorize(Policy = "Mcp.Read")]
 public sealed class FinanceResources
 {
     private readonly ITransactionRepository transactions;

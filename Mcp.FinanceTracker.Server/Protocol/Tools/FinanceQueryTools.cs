@@ -1,12 +1,14 @@
 using System.ComponentModel;
 using Mcp.FinanceTracker.Data.Abstractions;
 using Mcp.FinanceTracker.Data.Models;
+using Microsoft.AspNetCore.Authorization;
 using ModelContextProtocol;
 using ModelContextProtocol.Server;
 
 namespace Mcp.FinanceTracker.Server.Protocol.Tools;
 
 [McpServerToolType]
+[Authorize(Policy = "Mcp.Read")]
 public sealed class FinanceQueryTools
 {
     private readonly ITransactionRepository transactions;

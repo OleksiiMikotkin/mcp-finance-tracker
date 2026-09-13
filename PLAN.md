@@ -104,12 +104,13 @@ Remote HTTP (Streamable HTTP), не stdio — иначе OAuth физическ�
 server не пишем ни в одном (см. `M4-OAUTH.md` для полной архитектуры и
 алгоритма сопряжения клиент↔сервер↔IdP):**
 
-1. **Старт: WorkOS AuthKit.** Выбран первым, т.к. у WorkOS есть готовая,
-   официальная MCP-специфичная документация/шаблон и официальный .NET SDK
-   (`WorkOS.net`) — путь под наш кейс уже описан вендором. Фокус на
-   MCP-специфичной обвязке (`ModelContextProtocol.AspNetCore.Authentication`
-   → `.AddMcp(...)` поверх `.AddAuthentication().AddJwtBearer(...)`), плюс
-   маппинг scope/role → видимость tools.
+1. **(done) WorkOS AuthKit.** `ModelContextProtocol.AspNetCore.Authentication`
+   → `.AddMcp(...)` поверх `.AddAuthentication().AddJwtBearer(...)` —
+   реализовано, обычный `JwtBearer` против JWKS AuthKit, без специального
+   WorkOS SDK. Маппинг scope/role → видимость tools не сработал так, как
+   планировалось (см. `OAUTH.md`) — WorkOS не кладёт RBAC permissions в
+   OAuth-токен для сторонних клиентов, поэтому сейчас просто "валидный
+   токен = полный доступ".
 2. **Второй провайдер: Microsoft.Identity.Web / Entra ID.** Та же
    scope-gating логика поверх другого IdP — более тяжёлая настройка (Azure
    portal, tenant, App Registration), но типичный enterprise .NET-стек,
@@ -213,12 +214,16 @@ URL, localhost не подойдёт для внешних клиентов ти
   промпта не "весь разговор ведём в заданном тоне", а "конкретный сценарий,
   который пользователь осознанно запускает, возвращает точную инструкцию
   с уже посчитанными датами и списком tools для вызова".
-- **M4.** Auth вариант 1 — **WorkOS AuthKit**. Выбран первым из двух
-  вариантов ниже, т.к. у WorkOS есть готовая, официальная MCP-специфичная
-  документация/шаблон (AuthKit для MCP, `auth.md`) и официальный .NET SDK
-  (`WorkOS.net`) — путь под наш конкретный кейс уже описан вендором, в
-  отличие от Entra ID, где интеграция с MCP опирается на сторонние блоги.
-  Токен валидируется, scope/role влияет на видимость tools.
+- **M4. (done)** Auth вариант 1 — **WorkOS AuthKit**. Полный OAuth 2.1
+  flow работает и проверен через MCP Inspector и Claude Desktop: `401` +
+  Protected Resource Metadata → DCR → браузерный login на AuthKit → PKCE
+  → JWT валидируется по JWKS WorkOS (issuer + audience). Изначальный план
+  fine-grained scope-gating (`Mcp.Read`/`Mcp.Write` → видимость tools) не
+  реализован по факту: выяснилось, что WorkOS RBAC permissions попадают
+  только в его собственный internal session JWT, а не в OAuth access
+  token стороннего (DCR) клиента — так что обе policy сейчас требуют
+  просто валидный токен, без разделения на read/write. Подробности,
+  диагностика и вся история находок — в `OAUTH.md`.
 - **M5.** Auth вариант 2 — **Entra ID / Microsoft.Identity.Web**. Более
   тяжёлый в настройке путь (Azure portal, tenant, App Registration), но
   типичный enterprise .NET-стек — ценен отдельно для резюме. Та же
@@ -233,6 +238,22 @@ URL, localhost не подойдёт для внешних клиентов ти
 - **M7 (v2, после MVP).** Опционально — свой agent loop за частью tools
   (анализ трат, планирование бюджета), на .NET (Semantic Kernel agents) или
   дублирование на Python/FastMCP для сравнения стеков. Не блокирует M0–M6.
+
+## Известные ограничения / технический долг
+
+Из экспертного code review всего проекта (2026-09-13). Валидация
+category/account/currency и консистентные `McpException` в write-tools уже
+исправлены по итогам этого review — ниже то, что осознанно отложено, не
+блокирует текущие вехи:
+
+- `DetectSuspiciousTransactions`/`DetectImpossibleTravel` тянут всю историю
+  транзакций в память и агрегируют в LINQ, а не в SQL (`GROUP BY`/оконные
+  функции) — нормально для демо-датасета в сотни/тысячи строк, не
+  масштабируется на реально большую историю.
+- `simulate_savings`: `reductionPct` не валидируется на диапазон 0–100,
+  хотя `[Description]` параметра это обещает — можно передать
+  отрицательное число или больше 100 без ошибки.
+- `set_budget`: `monthlyLimit` не проверяется на отрицательное значение.
 
 ## Что дальше нужно от нового чата
 

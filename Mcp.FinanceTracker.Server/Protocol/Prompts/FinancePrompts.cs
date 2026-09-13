@@ -1,11 +1,13 @@
 using System.ComponentModel;
 using System.Globalization;
+using Microsoft.AspNetCore.Authorization;
 using ModelContextProtocol;
 using ModelContextProtocol.Server;
 
 namespace Mcp.FinanceTracker.Server.Protocol.Prompts;
 
 [McpServerPromptType]
+[Authorize(Policy = "Mcp.Read")]
 public sealed class FinancePrompts
 {
     [McpServerPrompt(Name = "monthly_review")]
