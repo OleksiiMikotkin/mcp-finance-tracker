@@ -1,899 +1,875 @@
 date,merchant,amount,currency,category,account,recurring,country,status
-2025-08-24T09:00,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2025-08-24T12:43,Kaufland,-99.5,EUR,groceries,main_debit,False,DE,Posted
-2025-08-24T19:29,Lieferando,-13,EUR,delivery,main_debit,False,DE,Posted
-2025-08-25T09:47,Balzac Coffee,-3.29,EUR,coffee,main_debit,False,DE,Posted
-2025-08-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2025-08-25T12:15,C&A,-34.5,EUR,shopping,main_debit,False,DE,Posted
-2025-08-25T21:21,Aldi,-110.5,EUR,groceries,main_debit,False,DE,Posted
-2025-08-26T09:19,Starbucks,-4.12,EUR,coffee,main_debit,False,DE,Posted
-2025-08-26T09:34,Lidl,-78.5,EUR,groceries,main_debit,False,DE,Posted
-2025-08-26T12:05,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-08-27T09:14,Balzac Coffee,-5.52,EUR,coffee,main_debit,False,DE,Posted
-2025-08-27T19:08,Uber Eats,-20,EUR,delivery,main_debit,False,DE,Posted
-2025-08-28T08:46,Starbucks,-2.92,EUR,coffee,main_debit,False,DE,Posted
-2025-08-28T09:50,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-08-28T09:56,Currywurst Bude,-4.83,EUR,restaurants,main_debit,False,DE,Posted
-2025-08-28T10:19,Rewe,-40.5,EUR,groceries,main_debit,False,DE,Posted
-2025-08-29T08:01,Starbucks,-4.69,EUR,coffee,main_debit,False,DE,Posted
-2025-08-30T21:55,Zur Linde,-36,EUR,restaurants,main_debit,False,DE,Posted
-2025-08-30T22:23,Aldi,-21,EUR,groceries,main_debit,False,DE,Posted
-2025-08-31T08:56,Lidl,-74,EUR,groceries,main_debit,False,DE,Posted
-2025-08-31T14:11,Steam,-36,EUR,entertainment,main_debit,False,DE,Posted
-2025-08-31T15:43,Nordsee,-9,EUR,restaurants,main_debit,False,DE,Posted
-2025-09-01T10:55,Balzac Coffee,-3.38,EUR,coffee,main_debit,False,DE,Posted
-2025-09-01T22:18,Rewe,-98.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-02T07:36,Starbucks,-4.15,EUR,coffee,main_debit,False,DE,Posted
-2025-09-02T15:16,FREE NOW,-4.24,EUR,transport,main_debit,False,DE,Posted
-2025-09-03T09:41,Coffee Fellows,-2.91,EUR,coffee,main_debit,False,DE,Posted
-2025-09-03T12:40,Lidl,-34,EUR,groceries,main_debit,False,DE,Posted
-2025-09-04T07:10,Starbucks,-2.61,EUR,coffee,main_debit,False,DE,Posted
-2025-09-04T18:08,FREE NOW,-5.37,EUR,transport,main_debit,False,DE,Posted
-2025-09-04T22:41,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2025-09-05T09:18,Aldi,-82,EUR,groceries,main_debit,False,DE,Posted
-2025-09-05T09:34,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2025-09-05T13:35,Vattenfall,-78.5,EUR,utilities,main_debit,True,DE,Posted
-2025-09-06T09:56,Lidl,-40,EUR,groceries,main_debit,False,DE,Posted
-2025-09-06T14:06,Stadtwerke,-22,EUR,utilities,main_debit,True,DE,Posted
-2025-09-06T15:34,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2025-09-06T21:14,Wolt,-26.5,EUR,delivery,main_debit,False,DE,Posted
-2025-09-07T15:00,Kaufland,-55.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-07T22:19,Wolt,-27.5,EUR,delivery,main_debit,False,DE,Posted
-2025-09-08T07:17,Starbucks,-5.18,EUR,coffee,main_debit,False,DE,Posted
-2025-09-09T09:47,Coffee Fellows,-3.22,EUR,coffee,main_debit,False,DE,Posted
-2025-09-09T15:07,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2025-09-10T10:59,Balzac Coffee,-5.99,EUR,coffee,main_debit,False,DE,Posted
-2025-09-10T19:18,Aldi,-87,EUR,groceries,main_debit,False,DE,Posted
-2025-09-11T09:43,Starbucks,-4.14,EUR,coffee,main_debit,False,DE,Posted
-2025-09-11T19:53,Lidl,-26,EUR,groceries,main_debit,False,DE,Posted
-2025-09-11T22:16,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2025-09-12T07:12,Starbucks,-4.31,EUR,coffee,main_debit,False,DE,Posted
-2025-09-12T12:06,Hausarztpraxis Dr. Müller,-188.5,EUR,health,main_debit,False,DE,Posted
-2025-09-12T17:26,FREE NOW,-3.12,EUR,transport,main_debit,False,DE,Posted
-2025-09-12T21:57,Lidl,-48.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-13T12:14,Lidl,-38.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-13T18:22,CinemaxX,-10,EUR,entertainment,main_debit,False,DE,Posted
-2025-09-14T12:09,Kaufland,-167.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
-2025-09-15T07:26,Starbucks,-2.96,EUR,coffee,main_debit,False,DE,Posted
-2025-09-15T20:50,Wolt,-20,EUR,delivery,main_debit,False,DE,Posted
-2025-09-16T10:59,Balzac Coffee,-5.45,EUR,coffee,main_debit,False,DE,Posted
-2025-09-16T22:22,Kaufland,-103.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-17T07:25,Coffee Fellows,-3.62,EUR,coffee,main_debit,False,DE,Posted
-2025-09-17T09:48,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-09-17T17:15,Lidl,-43.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-18T09:04,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-09-18T10:06,Balzac Coffee,-5.47,EUR,coffee,main_debit,False,DE,Posted
-2025-09-19T08:01,Coffee Fellows,-3.96,EUR,coffee,main_debit,False,DE,Posted
-2025-09-19T10:25,Deutsche Bahn,-4.37,EUR,transport,main_debit,False,DE,Posted
-2025-09-20T11:05,Steam,-54.5,EUR,entertainment,main_debit,False,DE,Posted
-2025-09-20T17:45,Lidl,-72.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-21T12:27,Thalia,-12.96,EUR,entertainment,main_debit,False,DE,Posted
-2025-09-21T18:04,Lidl,-38.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-22T08:40,Starbucks,-4.38,EUR,coffee,main_debit,False,DE,Posted
-2025-09-22T09:49,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2025-09-22T10:15,Deutsche Bahn,-9.64,EUR,transport,main_debit,False,DE,Posted
-2025-09-23T09:22,Starbucks,-3.5,EUR,coffee,main_debit,False,DE,Posted
-2025-09-23T14:33,C&A,-110.5,EUR,shopping,main_debit,False,DE,Posted
-2025-09-23T20:29,Rewe,-73.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-24T07:31,Coffee Fellows,-2.55,EUR,coffee,main_debit,False,DE,Posted
-2025-09-24T08:04,Kaufland,-53,EUR,groceries,main_debit,False,DE,Posted
-2025-09-24T23:30,Wolt,-13.5,EUR,delivery,main_debit,False,DE,Posted
-2025-09-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2025-09-25T10:06,Balzac Coffee,-3.15,EUR,coffee,main_debit,False,DE,Posted
-2025-09-25T10:27,Kaufland,-87.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-25T12:46,Currywurst Bude,-3.89,EUR,restaurants,main_debit,False,DE,Posted
-2025-09-25T16:24,Deutsche Bahn,-8.63,EUR,transport,main_debit,False,DE,Posted
-2025-09-25T17:02,Steam,-38.5,EUR,entertainment,main_debit,False,DE,Posted
-2025-09-26T10:54,Balzac Coffee,-4.11,EUR,coffee,main_debit,False,DE,Posted
-2025-09-27T11:35,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2025-09-27T22:12,Uber Eats,-24,EUR,delivery,main_debit,False,DE,Posted
-2025-09-27T22:19,Thalia,-7.73,EUR,entertainment,main_debit,False,DE,Posted
-2025-09-27T22:36,Aldi,-82,EUR,groceries,main_debit,False,DE,Posted
-2025-09-28T17:13,Lidl,-19.5,EUR,groceries,main_debit,False,DE,Posted
-2025-09-28T21:53,Nordsee,-9,EUR,restaurants,main_debit,False,DE,Posted
-2025-09-29T08:47,Balzac Coffee,-4.79,EUR,coffee,main_debit,False,DE,Posted
-2025-09-29T12:18,Kaufland,-118,EUR,groceries,main_debit,False,DE,Posted
-2025-09-30T07:57,Starbucks,-3.97,EUR,coffee,main_debit,False,DE,Posted
-2025-09-30T15:51,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-09-30T20:19,Wolt,-15,EUR,delivery,main_debit,False,DE,Posted
-2025-10-01T10:31,Balzac Coffee,-4.62,EUR,coffee,main_debit,False,DE,Posted
-2025-10-01T18:16,FREE NOW,-5.13,EUR,transport,main_debit,False,DE,Posted
-2025-10-01T20:46,Lidl,-74.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-02T07:02,Starbucks,-2.52,EUR,coffee,main_debit,False,DE,Posted
-2025-10-03T08:19,Balzac Coffee,-3.98,EUR,coffee,main_debit,False,DE,Posted
-2025-10-03T19:55,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-10-04T09:49,Kaufland,-61.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-05T12:30,Lidl,-18,EUR,groceries,main_debit,False,DE,Posted
-2025-10-05T13:06,Wolt,-22,EUR,delivery,main_debit,False,DE,Posted
-2025-10-05T20:20,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2025-10-06T09:50,Starbucks,-5.2,EUR,coffee,main_debit,False,DE,Posted
-2025-10-06T16:58,CinemaxX,-13,EUR,entertainment,main_debit,False,DE,Posted
-2025-10-06T20:45,Kaufland,-109.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-07T07:31,Coffee Fellows,-2.91,EUR,coffee,main_debit,False,DE,Posted
-2025-10-07T16:08,Nordsee,-11,EUR,restaurants,main_debit,False,DE,Posted
-2025-10-08T09:01,Starbucks,-4.48,EUR,coffee,main_debit,False,DE,Posted
-2025-10-08T12:17,Rewe,-39,EUR,groceries,main_debit,False,DE,Posted
-2025-10-08T15:16,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2025-10-08T21:00,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-10-09T08:22,Starbucks,-5.05,EUR,coffee,main_debit,False,DE,Posted
-2025-10-09T18:10,Kaufland,-128,EUR,groceries,main_debit,False,DE,Posted
-2025-10-10T08:23,Balzac Coffee,-5.01,EUR,coffee,main_debit,False,DE,Posted
-2025-10-10T09:00,Thalia,-9.67,EUR,entertainment,main_debit,False,DE,Posted
-2025-10-11T17:22,Aldi,-36.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-12T16:23,Kaufland,-95.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-12T21:06,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2025-10-13T08:59,Starbucks,-3.76,EUR,coffee,main_debit,False,DE,Posted
-2025-10-13T20:27,Vattenfall,-54,EUR,utilities,main_debit,True,DE,Posted
-2025-10-13T22:43,Stadtwerke,-15.5,EUR,utilities,main_debit,True,DE,Posted
-2025-10-14T09:31,Coffee Fellows,-4.1,EUR,coffee,main_debit,False,DE,Posted
-2025-10-14T13:51,FREE NOW,-11.01,EUR,transport,main_debit,False,DE,Posted
-2025-10-14T14:00,Credit Card Payment,-409.11,EUR,credit_payment,main_debit,False,DE,Posted
-2025-10-15T08:03,Balzac Coffee,-5.04,EUR,coffee,main_debit,False,DE,Posted
-2025-10-15T11:02,Kaufland,-129.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-15T14:32,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2025-10-16T08:31,Lidl,-56,EUR,groceries,main_debit,False,DE,Posted
-2025-10-16T09:24,Starbucks,-3.76,EUR,coffee,main_debit,False,DE,Posted
-2025-10-16T10:50,FREE NOW,-4.13,EUR,transport,main_debit,False,DE,Posted
-2025-10-16T20:57,Uber Eats,-28.5,EUR,delivery,main_debit,False,DE,Posted
-2025-10-17T08:43,Coffee Fellows,-3.49,EUR,coffee,main_debit,False,DE,Posted
-2025-10-17T14:05,Zalando,-252.5,EUR,shopping,main_debit,False,DE,Posted
-2025-10-18T17:47,Aldi,-112.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-18T20:29,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2025-10-18T22:05,Uber Eats,-17,EUR,delivery,main_debit,False,DE,Posted
-2025-10-19T08:38,Aldi,-40.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-20T12:54,Rewe,-52.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-20T15:34,Zur Linde,-41,EUR,restaurants,main_debit,False,DE,Posted
-2025-10-21T08:40,Coffee Fellows,-3.02,EUR,coffee,main_debit,False,DE,Posted
-2025-10-21T17:14,Deutsche Bahn,-6.06,EUR,transport,main_debit,False,DE,Posted
-2025-10-22T07:22,Starbucks,-4.56,EUR,coffee,main_debit,False,DE,Posted
-2025-10-22T08:58,Rewe,-84.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-22T21:22,Deutsche Bahn,-3.12,EUR,transport,main_debit,False,DE,Posted
-2025-10-22T21:34,Uber Eats,-22,EUR,delivery,main_debit,False,DE,Posted
-2025-10-23T09:53,Starbucks,-4.13,EUR,coffee,main_debit,False,DE,Posted
-2025-10-23T18:50,Kaufland,-68,EUR,groceries,main_debit,False,DE,Posted
-2025-10-24T07:25,Coffee Fellows,-3.3,EUR,coffee,main_debit,False,DE,Posted
-2025-10-24T22:08,Uber Eats,-37.5,EUR,delivery,main_debit,False,DE,Posted
-2025-10-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2025-10-25T16:05,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2025-10-25T18:32,Aldi,-96,EUR,groceries,main_debit,False,DE,Posted
-2025-10-26T09:18,Kaufland,-163,EUR,groceries,main_debit,False,DE,Posted
-2025-10-27T08:19,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2025-10-27T09:59,Starbucks,-5.44,EUR,coffee,main_debit,False,DE,Posted
-2025-10-27T10:41,Deutsche Bahn,-5.91,EUR,transport,main_debit,False,DE,Posted
-2025-10-27T18:59,Lidl,-37,EUR,groceries,main_debit,False,DE,Posted
-2025-10-27T22:42,Lieferando,-26.5,EUR,delivery,main_debit,False,DE,Posted
-2025-10-28T07:22,Coffee Fellows,-3.9,EUR,coffee,main_debit,False,DE,Posted
-2025-10-28T12:25,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-10-28T20:04,Wolt,-15,EUR,delivery,main_debit,False,DE,Posted
-2025-10-29T09:15,Starbucks,-4.58,EUR,coffee,main_debit,False,DE,Posted
-2025-10-29T11:59,Aldi,-116.5,EUR,groceries,main_debit,False,DE,Posted
-2025-10-30T07:57,Starbucks,-4.41,EUR,coffee,main_debit,False,DE,Posted
-2025-10-30T16:59,Kaufland,-120,EUR,groceries,main_debit,False,DE,Posted
-2025-10-31T18:27,Deutsche Bahn,-7.35,EUR,transport,main_debit,False,DE,Posted
-2025-10-31T22:28,C&A,-78,EUR,shopping,main_debit,False,DE,Posted
-2025-11-01T18:34,Aldi,-70,EUR,groceries,main_debit,False,DE,Posted
-2025-11-03T09:58,Balzac Coffee,-5.57,EUR,coffee,main_debit,False,DE,Posted
-2025-11-03T20:36,Deutsche Bahn,-3.73,EUR,transport,main_debit,False,DE,Posted
-2025-11-04T19:13,Deutsche Bahn,-5.99,EUR,transport,main_debit,False,DE,Posted
-2025-11-05T08:29,Coffee Fellows,-3.02,EUR,coffee,main_debit,False,DE,Posted
-2025-11-05T14:44,Rewe,-68.5,EUR,groceries,main_debit,False,DE,Posted
-2025-11-05T20:22,Uber Eats,-27,EUR,delivery,main_debit,False,DE,Posted
-2025-11-06T08:05,Balzac Coffee,-4.37,EUR,coffee,main_debit,False,DE,Posted
-2025-11-06T14:15,Lidl,-55.5,EUR,groceries,main_debit,False,DE,Posted
-2025-11-06T19:30,Zur Linde,-42,EUR,restaurants,main_debit,False,DE,Posted
-2025-11-07T08:53,Balzac Coffee,-5.38,EUR,coffee,main_debit,False,DE,Posted
-2025-11-07T08:56,C&A,-104.5,EUR,shopping,main_debit,False,DE,Posted
-2025-11-08T16:24,Kaufland,-43.5,EUR,groceries,main_debit,False,DE,Posted
-2025-11-08T17:07,Nordsee,-9.5,EUR,restaurants,main_debit,False,DE,Posted
-2025-11-09T22:44,Currywurst Bude,-3.79,EUR,restaurants,main_debit,False,DE,Posted
-2025-11-10T08:23,Coffee Fellows,-3.67,EUR,coffee,main_debit,False,DE,Posted
-2025-11-10T11:25,Currywurst Bude,-4.26,EUR,restaurants,main_debit,False,DE,Posted
-2025-11-10T16:45,Deutsche Bahn,-7.53,EUR,transport,main_debit,False,DE,Posted
-2025-11-10T17:10,Aldi,-112,EUR,groceries,main_debit,False,DE,Posted
-2025-11-11T08:48,Balzac Coffee,-3.04,EUR,coffee,main_debit,False,DE,Posted
-2025-11-11T11:59,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2025-11-11T15:44,Apotheke am Markt,-28.83,EUR,health,main_debit,False,DE,Posted
-2025-11-12T09:34,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2025-11-12T10:25,Balzac Coffee,-3.63,EUR,coffee,main_debit,False,DE,Posted
-2025-11-12T16:24,FREE NOW,-8.82,EUR,transport,main_debit,False,DE,Posted
-2025-11-12T17:56,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2025-11-12T19:32,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2025-11-12T22:53,Wolt,-21,EUR,delivery,main_debit,False,DE,Posted
-2025-11-13T08:40,Balzac Coffee,-3.66,EUR,coffee,main_debit,False,DE,Posted
-2025-11-13T15:24,Vattenfall,-82,EUR,utilities,main_debit,True,DE,Posted
-2025-11-13T17:26,Stadtwerke,-27.5,EUR,utilities,main_debit,True,DE,Posted
-2025-11-13T18:12,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2025-11-13T22:54,FREE NOW,-6.6,EUR,transport,main_debit,False,DE,Posted
-2025-11-14T10:23,Balzac Coffee,-3.97,EUR,coffee,main_debit,False,DE,Posted
-2025-11-14T13:58,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2025-10-27T07:43,Starbucks,-3.78,EUR,coffee,main_debit,False,DE,Posted
+2025-10-27T08:23,Aldi,-21,EUR,groceries,main_debit,False,DE,Posted
+2025-10-27T10:15,Zalando,-323.5,EUR,shopping,main_debit,False,DE,Posted
+2025-10-27T19:40,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2025-10-28T10:05,Rewe,-92.5,EUR,groceries,main_debit,False,DE,Posted
+2025-10-28T19:00,FREE NOW,-5.28,EUR,transport,main_debit,False,DE,Posted
+2025-10-29T10:06,Balzac Coffee,-3.71,EUR,coffee,main_debit,False,DE,Posted
+2025-10-29T12:05,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2025-10-30T09:14,Balzac Coffee,-5.52,EUR,coffee,main_debit,False,DE,Posted
+2025-10-30T19:08,Uber Eats,-20,EUR,delivery,main_debit,False,DE,Posted
+2025-10-31T08:46,Starbucks,-2.92,EUR,coffee,main_debit,False,DE,Posted
+2025-10-31T09:50,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2025-10-31T09:56,Currywurst Bude,-4.83,EUR,restaurants,main_debit,False,DE,Posted
+2025-10-31T10:19,Rewe,-40.5,EUR,groceries,main_debit,False,DE,Posted
+2025-11-01T16:01,Kaufland,-142.5,EUR,groceries,main_debit,False,DE,Posted
+2025-11-02T11:00,Lidl,-46.5,EUR,groceries,main_debit,False,DE,Posted
+2025-11-03T08:56,FREE NOW,-11.18,EUR,transport,main_debit,False,DE,Posted
+2025-11-03T09:14,Coffee Fellows,-4.32,EUR,coffee,main_debit,False,DE,Posted
+2025-11-04T08:30,Balzac Coffee,-5.16,EUR,coffee,main_debit,False,DE,Posted
+2025-11-04T10:33,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2025-11-05T22:18,Rewe,-98.5,EUR,groceries,main_debit,False,DE,Posted
+2025-11-06T07:36,Starbucks,-4.15,EUR,coffee,main_debit,False,DE,Posted
+2025-11-06T08:35,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2025-11-06T15:16,FREE NOW,-4.24,EUR,transport,main_debit,False,DE,Posted
+2025-11-07T09:41,Coffee Fellows,-2.91,EUR,coffee,main_debit,False,DE,Posted
+2025-11-07T12:40,Lidl,-34,EUR,groceries,main_debit,False,DE,Posted
+2025-11-08T09:04,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2025-11-08T09:10,Kaufland,-45.5,EUR,groceries,main_debit,False,DE,Posted
+2025-11-09T15:44,Stadtwerke,-26,EUR,utilities,main_debit,True,DE,Posted
+2025-11-09T17:05,Nordsee,-11.5,EUR,restaurants,main_debit,False,DE,Posted
+2025-11-09T20:41,Rewe,-36,EUR,groceries,main_debit,False,DE,Posted
+2025-11-11T13:55,Deutsche Bahn,-8.23,EUR,transport,main_debit,False,DE,Posted
+2025-11-11T17:52,Apotheke am Markt,-16.36,EUR,health,main_debit,False,DE,Posted
+2025-11-11T20:39,Lidl,-45.5,EUR,groceries,main_debit,False,DE,Posted
+2025-11-12T09:20,Coffee Fellows,-3.75,EUR,coffee,main_debit,False,DE,Posted
+2025-11-12T21:56,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2025-11-12T22:37,CinemaxX,-14.5,EUR,entertainment,main_debit,False,DE,Posted
+2025-11-13T08:51,Coffee Fellows,-2.75,EUR,coffee,main_debit,False,DE,Posted
+2025-11-13T22:50,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2025-11-14T10:46,Balzac Coffee,-4.35,EUR,coffee,main_debit,False,DE,Posted
 2025-11-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
-2025-11-14T15:58,Lidl,-50,EUR,groceries,main_debit,False,DE,Posted
-2025-11-14T19:36,Uber Eats,-38,EUR,delivery,main_debit,False,DE,Posted
-2025-11-15T12:58,MediaMarkt,-237.5,EUR,shopping,main_debit,False,DE,Posted
-2025-11-15T20:17,Uber Eats,-23.5,EUR,delivery,main_debit,False,DE,Posted
-2025-11-15T22:17,Rewe,-40.5,EUR,groceries,main_debit,False,DE,Posted
-2025-11-16T17:14,Steam,-35.5,EUR,entertainment,main_debit,False,DE,Posted
-2025-11-17T09:23,Coffee Fellows,-2.93,EUR,coffee,main_debit,False,DE,Posted
-2025-11-17T11:10,Aldi,-40.5,EUR,groceries,main_debit,False,DE,Posted
-2025-11-17T13:29,Hausarztpraxis Dr. Müller,-159.5,EUR,health,main_debit,False,DE,Posted
-2025-11-18T09:21,Balzac Coffee,-4.32,EUR,coffee,main_debit,False,DE,Posted
-2025-11-18T20:58,Uber Eats,-18,EUR,delivery,main_debit,False,DE,Posted
-2025-11-18T22:32,Rewe,-56,EUR,groceries,main_debit,False,DE,Posted
-2025-11-19T09:49,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-11-19T10:06,Balzac Coffee,-5.65,EUR,coffee,main_debit,False,DE,Posted
-2025-11-20T08:51,Coffee Fellows,-2.83,EUR,coffee,main_debit,False,DE,Posted
-2025-11-20T18:10,Hausarztpraxis Dr. Müller,-113.5,EUR,health,main_debit,False,DE,Posted
-2025-11-20T20:42,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2025-11-21T15:10,Rewe,-30,EUR,groceries,main_debit,False,DE,Posted
-2025-11-22T12:48,Lieferando,-34.5,EUR,delivery,main_debit,False,DE,Posted
-2025-11-22T20:43,Aldi,-81.5,EUR,groceries,main_debit,False,DE,Posted
-2025-11-23T11:43,Rewe,-33,EUR,groceries,main_debit,False,DE,Posted
-2025-11-24T09:44,Starbucks,-3.1,EUR,coffee,main_debit,False,DE,Posted
-2025-11-25T09:55,Balzac Coffee,-3.21,EUR,coffee,main_debit,False,DE,Posted
+2025-11-14T20:36,Uber Eats,-35,EUR,delivery,main_debit,False,DE,Posted
+2025-11-15T17:01,Vattenfall,-45.5,EUR,utilities,main_debit,True,DE,Posted
+2025-11-15T19:43,Kaufland,-116.5,EUR,groceries,main_debit,False,DE,Posted
+2025-11-15T19:57,C&A,-64.5,EUR,shopping,main_debit,False,DE,Posted
+2025-11-15T23:53,Lieferando,-29.5,EUR,delivery,main_debit,False,DE,Posted
+2025-11-16T08:31,Lidl,-44,EUR,groceries,main_debit,False,DE,Posted
+2025-11-16T11:33,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2025-11-17T08:24,Coffee Fellows,-3.79,EUR,coffee,main_debit,False,DE,Posted
+2025-11-17T11:53,Deutsche Bahn,-4.98,EUR,transport,main_debit,False,DE,Posted
+2025-11-17T19:00,Uber Eats,-23,EUR,delivery,main_debit,False,DE,Posted
+2025-11-18T09:04,Balzac Coffee,-4.68,EUR,coffee,main_debit,False,DE,Posted
+2025-11-18T09:26,C&A,-39.5,EUR,shopping,main_debit,False,DE,Posted
+2025-11-18T17:47,FREE NOW,-7.11,EUR,transport,main_debit,False,DE,Posted
+2025-11-19T08:25,Coffee Fellows,-3.45,EUR,coffee,main_debit,False,DE,Posted
+2025-11-20T09:24,Starbucks,-4.59,EUR,coffee,main_debit,False,DE,Posted
+2025-11-20T18:58,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2025-11-21T10:18,Balzac Coffee,-4.42,EUR,coffee,main_debit,False,DE,Posted
+2025-11-21T17:58,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2025-11-21T20:37,Lieferando,-15,EUR,delivery,main_debit,False,DE,Posted
+2025-11-21T21:07,FREE NOW,-4.75,EUR,transport,main_debit,False,DE,Posted
+2025-11-22T08:48,Zara,-110.5,EUR,shopping,main_debit,False,DE,Posted
+2025-11-22T12:06,Thalia,-8.62,EUR,entertainment,main_debit,False,DE,Posted
+2025-11-22T20:48,Lidl,-38,EUR,groceries,main_debit,False,DE,Posted
+2025-11-22T21:07,Uber Eats,-18,EUR,delivery,main_debit,False,DE,Posted
+2025-11-23T10:25,Rewe,-39.5,EUR,groceries,main_debit,False,DE,Posted
+2025-11-24T09:34,Starbucks,-4.49,EUR,coffee,main_debit,False,DE,Posted
+2025-11-24T11:05,Rewe,-91.5,EUR,groceries,main_debit,False,DE,Posted
+2025-11-24T13:42,Deutsche Bahn,-3.12,EUR,transport,main_debit,False,DE,Posted
+2025-11-25T09:38,Aldi,-66,EUR,groceries,main_debit,False,DE,Posted
 2025-11-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2025-11-25T10:08,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-11-26T09:57,Balzac Coffee,-3.94,EUR,coffee,main_debit,False,DE,Posted
-2025-11-26T21:31,FREE NOW,-9.92,EUR,transport,main_debit,False,DE,Posted
-2025-11-27T09:01,Balzac Coffee,-4.02,EUR,coffee,main_debit,False,DE,Posted
-2025-11-27T14:17,Kaufland,-119,EUR,groceries,main_debit,False,DE,Posted
-2025-11-27T15:00,Steam,-20.5,EUR,entertainment,main_debit,False,DE,Posted
-2025-11-27T17:33,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2025-11-27T19:42,Uber Eats,-28,EUR,delivery,main_debit,False,DE,Posted
-2025-11-27T20:25,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-11-28T08:50,Coffee Fellows,-4.09,EUR,coffee,main_debit,False,DE,Posted
-2025-11-28T20:13,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-11-29T14:43,Thalia,-19.78,EUR,entertainment,main_debit,False,DE,Posted
-2025-11-30T10:27,Rewe,-94,EUR,groceries,main_debit,False,DE,Posted
-2025-12-01T07:38,Coffee Fellows,-3.45,EUR,coffee,main_debit,False,DE,Posted
-2025-12-01T09:16,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-12-01T20:01,Zara,-42,EUR,shopping,main_debit,False,DE,Posted
-2025-12-02T08:06,Starbucks,-3.3,EUR,coffee,main_debit,False,DE,Posted
-2025-12-02T18:54,Lidl,-28,EUR,groceries,main_debit,False,DE,Posted
-2025-12-02T22:46,Deutsche Bahn,-6.95,EUR,transport,main_debit,False,DE,Posted
-2025-12-03T08:11,Coffee Fellows,-2.96,EUR,coffee,main_debit,False,DE,Posted
-2025-12-04T07:05,Coffee Fellows,-3.37,EUR,coffee,main_debit,False,DE,Posted
-2025-12-04T10:18,Lidl,-47,EUR,groceries,main_debit,False,DE,Posted
-2025-12-04T12:20,Lieferando,-21,EUR,delivery,main_debit,False,DE,Posted
-2025-12-04T18:09,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2025-12-04T21:16,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-12-05T07:04,Coffee Fellows,-4.21,EUR,coffee,main_debit,False,DE,Posted
-2025-12-05T16:04,FREE NOW,-8.87,EUR,transport,main_debit,False,DE,Posted
-2025-12-06T19:14,Kaufland,-121.5,EUR,groceries,main_debit,False,DE,Posted
-2025-12-07T09:08,Lidl,-29.5,EUR,groceries,main_debit,False,DE,Posted
-2025-12-07T09:15,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2025-12-07T09:30,CinemaxX,-14.5,EUR,entertainment,main_debit,False,DE,Posted
-2025-12-07T16:19,Hausarztpraxis Dr. Müller,-166.5,EUR,health,main_debit,False,DE,Posted
-2025-12-07T21:07,Uber Eats,-20,EUR,delivery,main_debit,False,DE,Posted
-2025-12-08T07:06,Coffee Fellows,-3.09,EUR,coffee,main_debit,False,DE,Posted
-2025-12-08T17:31,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-12-09T09:22,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2025-12-09T10:22,Balzac Coffee,-3.54,EUR,coffee,main_debit,False,DE,Posted
-2025-12-10T17:01,Stadtwerke,-17.5,EUR,utilities,main_debit,True,DE,Posted
-2025-12-10T18:59,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-12-11T20:36,Deutsche Bahn,-5.93,EUR,transport,main_debit,False,DE,Posted
-2025-12-12T07:49,Coffee Fellows,-3.96,EUR,coffee,main_debit,False,DE,Posted
-2025-12-12T11:10,FREE NOW,-4.91,EUR,transport,main_debit,False,DE,Posted
-2025-12-12T14:11,Aldi,-105.5,EUR,groceries,main_debit,False,DE,Posted
-2025-12-12T16:17,Vattenfall,-43,EUR,utilities,main_debit,True,DE,Posted
-2025-12-12T19:19,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2025-12-13T16:46,Aldi,-55,EUR,groceries,main_debit,False,DE,Posted
-2025-12-14T11:57,CinemaxX,-12,EUR,entertainment,main_debit,False,DE,Posted
-2025-12-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
-2025-12-14T14:43,Lidl,-16.5,EUR,groceries,main_debit,False,DE,Posted
-2025-12-15T09:43,Coffee Fellows,-2.77,EUR,coffee,main_debit,False,DE,Posted
-2025-12-15T14:38,FREE NOW,-11.64,EUR,transport,main_debit,False,DE,Posted
-2025-12-16T08:25,Starbucks,-4.64,EUR,coffee,main_debit,False,DE,Posted
-2025-12-16T13:15,FREE NOW,-10.32,EUR,transport,main_debit,False,DE,Posted
-2025-12-17T09:37,Coffee Fellows,-3.09,EUR,coffee,main_debit,False,DE,Posted
-2025-12-17T16:48,FREE NOW,-3.96,EUR,transport,main_debit,False,DE,Posted
-2025-12-17T21:24,Aldi,-25,EUR,groceries,main_debit,False,DE,Posted
-2025-12-18T09:09,Balzac Coffee,-4.58,EUR,coffee,main_debit,False,DE,Posted
-2025-12-18T13:37,Currywurst Bude,-5.75,EUR,restaurants,main_debit,False,DE,Posted
-2025-12-19T08:36,FREE NOW,-8.21,EUR,transport,main_debit,False,DE,Posted
-2025-12-19T09:25,Balzac Coffee,-3.07,EUR,coffee,main_debit,False,DE,Posted
-2025-12-19T09:38,Kaufland,-157.5,EUR,groceries,main_debit,False,DE,Posted
-2025-12-20T10:00,Lidl,-66.5,EUR,groceries,main_debit,False,DE,Posted
-2025-12-20T15:47,Steam,-16.5,EUR,entertainment,main_debit,False,DE,Posted
-2025-12-20T19:23,C&A,-67,EUR,shopping,main_debit,False,DE,Posted
-2025-12-21T22:18,Wolt,-24,EUR,delivery,main_debit,False,DE,Posted
-2025-12-22T10:57,Balzac Coffee,-5.75,EUR,coffee,main_debit,False,DE,Posted
-2025-12-22T12:25,Lidl,-53,EUR,groceries,main_debit,False,DE,Posted
-2025-12-22T18:46,FREE NOW,-5.81,EUR,transport,main_debit,False,DE,Posted
-2025-12-23T07:31,Coffee Fellows,-3.56,EUR,coffee,main_debit,False,DE,Posted
-2025-12-23T13:23,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-12-23T22:36,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2025-12-24T22:50,Uber Eats,-36,EUR,delivery,main_debit,False,DE,Posted
-2025-12-25T09:55,Coffee Fellows,-4.21,EUR,coffee,main_debit,False,DE,Posted
+2025-11-25T18:43,Zur Linde,-52.5,EUR,restaurants,main_debit,False,DE,Posted
+2025-11-25T22:11,FREE NOW,-6.38,EUR,transport,main_debit,False,DE,Posted
+2025-11-26T09:02,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2025-11-26T09:56,Balzac Coffee,-5.53,EUR,coffee,main_debit,False,DE,Posted
+2025-11-26T17:49,Lidl,-54,EUR,groceries,main_debit,False,DE,Posted
+2025-11-27T07:01,Coffee Fellows,-3.39,EUR,coffee,main_debit,False,DE,Posted
+2025-11-27T21:09,Lieferando,-22.5,EUR,delivery,main_debit,False,DE,Posted
+2025-11-27T22:05,Rewe,-53,EUR,groceries,main_debit,False,DE,Posted
+2025-11-28T08:02,Starbucks,-4.05,EUR,coffee,main_debit,False,DE,Posted
+2025-11-28T18:17,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2025-11-28T19:27,Uber Eats,-23.5,EUR,delivery,main_debit,False,DE,Posted
+2025-11-29T14:01,Kaufland,-119,EUR,groceries,main_debit,False,DE,Posted
+2025-11-30T22:54,Steam,-28.5,EUR,entertainment,main_debit,False,DE,Posted
+2025-12-01T11:28,Lidl,-25.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-01T13:51,Zalando,-309,EUR,shopping,main_debit,False,DE,Posted
+2025-12-02T09:19,Starbucks,-2.91,EUR,coffee,main_debit,False,DE,Posted
+2025-12-02T09:38,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2025-12-02T17:13,FREE NOW,-3.61,EUR,transport,main_debit,False,DE,Posted
+2025-12-03T09:22,Starbucks,-5.16,EUR,coffee,main_debit,False,DE,Posted
+2025-12-03T22:05,Wolt,-11.5,EUR,delivery,main_debit,False,DE,Posted
+2025-12-04T08:22,Starbucks,-5.28,EUR,coffee,main_debit,False,DE,Posted
+2025-12-04T19:06,FREE NOW,-11.6,EUR,transport,main_debit,False,DE,Posted
+2025-12-05T08:35,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2025-12-05T09:31,Coffee Fellows,-3.55,EUR,coffee,main_debit,False,DE,Posted
+2025-12-05T15:27,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2025-12-06T10:06,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2025-12-06T17:29,Stadtwerke,-26,EUR,utilities,main_debit,True,DE,Posted
+2025-12-06T20:46,Lidl,-74.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-06T21:16,Lieferando,-17.5,EUR,delivery,main_debit,False,DE,Posted
+2025-12-07T12:02,Rewe,-25.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-08T08:19,Starbucks,-3.82,EUR,coffee,main_debit,False,DE,Posted
+2025-12-08T12:04,Aldi,-99.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-09T07:05,Coffee Fellows,-4.15,EUR,coffee,main_debit,False,DE,Posted
+2025-12-09T12:08,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2025-12-10T08:02,Coffee Fellows,-3.05,EUR,coffee,main_debit,False,DE,Posted
+2025-12-10T12:06,Rewe,-70.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-10T19:47,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2025-12-10T21:10,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2025-12-10T22:50,C&A,-110.5,EUR,shopping,main_debit,False,DE,Posted
+2025-12-11T10:59,Balzac Coffee,-5.46,EUR,coffee,main_debit,False,DE,Posted
+2025-12-11T22:08,Uber Eats,-30,EUR,delivery,main_debit,False,DE,Posted
+2025-12-12T08:48,Balzac Coffee,-5.34,EUR,coffee,main_debit,False,DE,Posted
+2025-12-12T10:59,Aldi,-79.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-13T10:17,CinemaxX,-12,EUR,entertainment,main_debit,False,DE,Posted
+2025-12-13T22:41,Vattenfall,-83.5,EUR,utilities,main_debit,True,DE,Posted
+2025-12-14T08:18,Kaufland,-170.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-14T14:00,Credit Card Payment,-497.26,EUR,credit_payment,main_debit,False,DE,Posted
+2025-12-15T08:48,Balzac Coffee,-4.13,EUR,coffee,main_debit,False,DE,Posted
+2025-12-15T22:15,FREE NOW,-8.62,EUR,transport,main_debit,False,DE,Posted
+2025-12-16T08:51,Nordsee,-9,EUR,restaurants,main_debit,False,DE,Posted
+2025-12-16T09:14,Coffee Fellows,-3.27,EUR,coffee,main_debit,False,DE,Posted
+2025-12-16T10:39,FREE NOW,-5.56,EUR,transport,main_debit,False,DE,Posted
+2025-12-17T10:23,Balzac Coffee,-4.35,EUR,coffee,main_debit,False,DE,Posted
+2025-12-18T08:59,Starbucks,-3.76,EUR,coffee,main_debit,False,DE,Posted
+2025-12-19T08:45,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2025-12-19T09:31,Coffee Fellows,-4.1,EUR,coffee,main_debit,False,DE,Posted
+2025-12-19T13:51,FREE NOW,-11.01,EUR,transport,main_debit,False,DE,Posted
+2025-12-20T08:45,Zur Linde,-36.5,EUR,restaurants,main_debit,False,DE,Posted
+2025-12-20T12:03,Rewe,-76,EUR,groceries,main_debit,False,DE,Posted
+2025-12-21T12:31,Lieferando,-26.5,EUR,delivery,main_debit,False,DE,Posted
+2025-12-21T14:53,Aldi,-98.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-21T16:22,CinemaxX,-15,EUR,entertainment,main_debit,False,DE,Posted
+2025-12-22T09:14,Coffee Fellows,-2.79,EUR,coffee,main_debit,False,DE,Posted
+2025-12-22T16:43,FREE NOW,-7.44,EUR,transport,main_debit,False,DE,Posted
+2025-12-23T14:05,Aldi,-79,EUR,groceries,main_debit,False,DE,Posted
+2025-12-24T09:05,Coffee Fellows,-2.75,EUR,coffee,main_debit,False,DE,Posted
+2025-12-24T16:11,FREE NOW,-8.77,EUR,transport,main_debit,False,DE,Posted
+2025-12-24T20:25,Uber Eats,-19,EUR,delivery,main_debit,False,DE,Posted
+2025-12-25T08:54,Balzac Coffee,-4.09,EUR,coffee,main_debit,False,DE,Posted
 2025-12-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2025-12-25T13:51,Wolt,-27,EUR,delivery,main_debit,False,DE,Posted
-2025-12-25T14:30,Kaufland,-161.5,EUR,groceries,main_debit,False,DE,Posted
-2025-12-25T16:32,C&A,-78,EUR,shopping,main_debit,False,DE,Posted
-2025-12-25T22:34,FREE NOW,-10.88,EUR,transport,main_debit,False,DE,Posted
-2025-12-26T11:15,Lidl,-18,EUR,groceries,main_debit,False,DE,Posted
-2025-12-26T14:01,Zur Linde,-69.5,EUR,restaurants,main_debit,False,DE,Posted
-2025-12-26T21:27,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2025-12-27T20:55,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2025-12-28T08:57,Lidl,-59.5,EUR,groceries,main_debit,False,DE,Posted
-2025-12-28T14:43,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2025-12-28T20:59,Wolt,-26.5,EUR,delivery,main_debit,False,DE,Posted
-2025-12-29T13:20,Rewe,-75.5,EUR,groceries,main_debit,False,DE,Posted
-2025-12-30T10:37,Balzac Coffee,-4.9,EUR,coffee,main_debit,False,DE,Posted
-2025-12-31T08:43,Coffee Fellows,-3.86,EUR,coffee,main_debit,False,DE,Posted
-2025-12-31T19:51,Uber Eats,-32.5,EUR,delivery,main_debit,False,DE,Posted
-2025-12-31T19:54,Lidl,-18,EUR,groceries,main_debit,False,DE,Posted
-2026-01-01T08:33,Starbucks,-3.28,EUR,coffee,main_debit,False,DE,Posted
-2026-01-01T09:42,Deutsche Bahn,-3.25,EUR,transport,main_debit,False,DE,Posted
-2026-01-02T08:47,Starbucks,-5.07,EUR,coffee,main_debit,False,DE,Posted
-2026-01-02T14:09,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-01-02T14:43,Zalando,-81,EUR,shopping,main_debit,False,DE,Posted
-2026-01-04T22:49,Lieferando,-24.5,EUR,delivery,main_debit,False,DE,Posted
-2026-01-05T09:34,Starbucks,-5.1,EUR,coffee,main_debit,False,DE,Posted
-2026-01-05T22:23,Uber Eats,-25,EUR,delivery,main_debit,False,DE,Posted
-2026-01-06T10:11,Balzac Coffee,-5.69,EUR,coffee,main_debit,False,DE,Posted
-2026-01-07T07:58,Starbucks,-3.52,EUR,coffee,main_debit,False,DE,Posted
-2026-01-07T21:21,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2026-01-08T08:54,Starbucks,-4.13,EUR,coffee,main_debit,False,DE,Posted
-2026-01-08T11:09,FREE NOW,-10.03,EUR,transport,main_debit,False,DE,Posted
-2026-01-08T18:58,Stadtwerke,-30,EUR,utilities,main_debit,True,DE,Posted
-2026-01-08T19:56,Vattenfall,-60.5,EUR,utilities,main_debit,True,DE,Posted
-2026-01-09T07:11,Starbucks,-3.44,EUR,coffee,main_debit,False,DE,Posted
-2026-01-09T14:20,Zur Linde,-43,EUR,restaurants,main_debit,False,DE,Posted
-2026-01-09T16:24,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2026-01-10T11:04,Lidl,-75.5,EUR,groceries,main_debit,False,DE,Posted
-2026-01-10T12:22,Currywurst Bude,-3.58,EUR,restaurants,main_debit,False,DE,Posted
-2026-01-11T11:00,C&A,-35,EUR,shopping,main_debit,False,DE,Posted
-2026-01-11T15:33,Zur Linde,-59.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-01-12T08:40,Coffee Fellows,-3.34,EUR,coffee,main_debit,False,DE,Posted
-2026-01-12T10:13,Lidl,-16,EUR,groceries,main_debit,False,DE,Posted
-2026-01-12T11:44,Apotheke am Markt,-37.37,EUR,health,main_debit,False,DE,Posted
-2026-01-12T20:54,FREE NOW,-6.44,EUR,transport,main_debit,False,DE,Posted
-2026-01-13T07:25,Coffee Fellows,-4.4,EUR,coffee,main_debit,False,DE,Posted
-2026-01-13T19:42,FREE NOW,-10.8,EUR,transport,main_debit,False,DE,Posted
-2026-01-13T21:23,Lidl,-23,EUR,groceries,main_debit,False,DE,Posted
-2026-01-14T09:23,Balzac Coffee,-5.78,EUR,coffee,main_debit,False,DE,Posted
-2026-01-14T14:00,Credit Card Payment,-430.75,EUR,credit_payment,main_debit,False,DE,Posted
-2026-01-14T15:26,Kaufland,-59,EUR,groceries,main_debit,False,DE,Posted
-2026-01-16T08:54,Balzac Coffee,-5.8,EUR,coffee,main_debit,False,DE,Posted
-2026-01-16T15:40,Steam,-58,EUR,entertainment,main_debit,False,DE,Posted
-2026-01-16T18:33,Deutsche Bahn,-7.38,EUR,transport,main_debit,False,DE,Posted
-2026-01-16T21:03,Currywurst Bude,-4.27,EUR,restaurants,main_debit,False,DE,Posted
-2026-01-17T22:45,Nordsee,-10.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-01-18T10:16,Aldi,-70.5,EUR,groceries,main_debit,False,DE,Posted
-2026-01-18T11:47,CinemaxX,-8,EUR,entertainment,main_debit,False,DE,Posted
-2026-01-18T22:56,Uber Eats,-27,EUR,delivery,main_debit,False,DE,Posted
-2026-01-19T08:57,Starbucks,-4.51,EUR,coffee,main_debit,False,DE,Posted
-2026-01-19T09:02,Rewe,-74,EUR,groceries,main_debit,False,DE,Posted
-2026-01-19T09:16,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2026-01-20T07:23,Coffee Fellows,-3.12,EUR,coffee,main_debit,False,DE,Posted
-2026-01-21T09:45,Balzac Coffee,-3.39,EUR,coffee,main_debit,False,DE,Posted
-2026-01-21T10:43,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-01-21T14:47,Kaufland,-173,EUR,groceries,main_debit,False,DE,Posted
-2026-01-22T08:12,Zara,-44.5,EUR,shopping,main_debit,False,DE,Posted
-2026-01-22T08:29,Coffee Fellows,-2.59,EUR,coffee,main_debit,False,DE,Posted
-2026-01-22T21:55,Rewe,-90,EUR,groceries,main_debit,False,DE,Posted
-2026-01-23T08:17,Coffee Fellows,-3.55,EUR,coffee,main_debit,False,DE,Posted
-2026-01-23T21:14,Currywurst Bude,-4.56,EUR,restaurants,main_debit,False,DE,Posted
-2026-01-24T18:12,Thalia,-19.28,EUR,entertainment,main_debit,False,DE,Posted
-2026-01-24T18:45,Kaufland,-67,EUR,groceries,main_debit,False,DE,Posted
-2026-01-24T20:50,Nordsee,-15.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-01-25T08:44,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2025-12-25T13:29,Kaufland,-111,EUR,groceries,main_debit,False,DE,Posted
+2025-12-26T08:40,Coffee Fellows,-3.02,EUR,coffee,main_debit,False,DE,Posted
+2025-12-26T17:14,Deutsche Bahn,-6.06,EUR,transport,main_debit,False,DE,Posted
+2025-12-27T08:22,Rewe,-76.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-27T22:05,Currywurst Bude,-3.16,EUR,restaurants,main_debit,False,DE,Posted
+2025-12-28T17:00,Rewe,-63.5,EUR,groceries,main_debit,False,DE,Posted
+2025-12-29T21:53,Kaufland,-116,EUR,groceries,main_debit,False,DE,Posted
+2025-12-30T08:23,Nordsee,-16.5,EUR,restaurants,main_debit,False,DE,Posted
+2025-12-30T08:29,Deutsche Bahn,-7.12,EUR,transport,main_debit,False,DE,Posted
+2025-12-31T10:08,Balzac Coffee,-4.72,EUR,coffee,main_debit,False,DE,Posted
+2026-01-01T07:53,Starbucks,-4.91,EUR,coffee,main_debit,False,DE,Posted
+2026-01-01T21:22,Uber Eats,-25,EUR,delivery,main_debit,False,DE,Posted
+2026-01-01T22:43,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-01-02T07:06,Starbucks,-5.46,EUR,coffee,main_debit,False,DE,Posted
+2026-01-02T11:16,FREE NOW,-9.21,EUR,transport,main_debit,False,DE,Posted
+2026-01-02T18:21,Rewe,-85,EUR,groceries,main_debit,False,DE,Posted
+2026-01-03T20:31,Wolt,-13,EUR,delivery,main_debit,False,DE,Posted
+2026-01-04T11:59,Zalando,-387,EUR,shopping,main_debit,False,DE,Posted
+2026-01-04T14:29,Kaufland,-83.5,EUR,groceries,main_debit,False,DE,Posted
+2026-01-04T18:51,Currywurst Bude,-5.62,EUR,restaurants,main_debit,False,DE,Posted
+2026-01-05T08:19,Starbucks,-4.2,EUR,coffee,main_debit,False,DE,Posted
+2026-01-05T10:50,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-01-05T16:20,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-01-06T08:13,Starbucks,-4.14,EUR,coffee,main_debit,False,DE,Posted
+2026-01-06T17:42,Deutsche Bahn,-6.23,EUR,transport,main_debit,False,DE,Posted
+2026-01-06T20:06,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-01-07T14:30,FREE NOW,-8.09,EUR,transport,main_debit,False,DE,Posted
+2026-01-08T08:20,Lidl,-71.5,EUR,groceries,main_debit,False,DE,Posted
+2026-01-08T10:58,Balzac Coffee,-3.7,EUR,coffee,main_debit,False,DE,Posted
+2026-01-08T22:45,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-01-09T19:13,Zalando,-193.5,EUR,shopping,main_debit,False,DE,Posted
+2026-01-09T22:37,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-01-11T16:34,Aldi,-52,EUR,groceries,main_debit,False,DE,Posted
+2026-01-11T21:01,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2026-01-11T22:28,Nordsee,-8.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-01-12T08:17,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-01-12T08:35,Starbucks,-5.37,EUR,coffee,main_debit,False,DE,Posted
+2026-01-12T17:26,FREE NOW,-4.83,EUR,transport,main_debit,False,DE,Posted
+2026-01-13T09:56,Balzac Coffee,-5.35,EUR,coffee,main_debit,False,DE,Posted
+2026-01-13T19:13,FREE NOW,-8.85,EUR,transport,main_debit,False,DE,Posted
+2026-01-14T09:50,Coffee Fellows,-2.61,EUR,coffee,main_debit,False,DE,Posted
+2026-01-14T13:40,Vattenfall,-53,EUR,utilities,main_debit,True,DE,Posted
+2026-01-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
+2026-01-14T14:35,Deutsche Bahn,-3.9,EUR,transport,main_debit,False,DE,Posted
+2026-01-14T17:47,Kaufland,-68,EUR,groceries,main_debit,False,DE,Posted
+2026-01-14T23:08,Wolt,-12.5,EUR,delivery,main_debit,False,DE,Posted
+2026-01-15T10:37,Stadtwerke,-19,EUR,utilities,main_debit,True,DE,Posted
+2026-01-16T09:28,Balzac Coffee,-3.51,EUR,coffee,main_debit,False,DE,Posted
+2026-01-16T17:35,FREE NOW,-7.62,EUR,transport,main_debit,False,DE,Posted
+2026-01-16T20:13,Uber Eats,-37.5,EUR,delivery,main_debit,False,DE,Posted
+2026-01-16T21:39,Aldi,-48,EUR,groceries,main_debit,False,DE,Posted
+2026-01-17T20:59,Nordsee,-8.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-01-18T22:47,Wolt,-20,EUR,delivery,main_debit,False,DE,Posted
+2026-01-19T09:12,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-01-19T09:28,Balzac Coffee,-3.38,EUR,coffee,main_debit,False,DE,Posted
+2026-01-20T09:09,Balzac Coffee,-5.54,EUR,coffee,main_debit,False,DE,Posted
+2026-01-20T18:19,FREE NOW,-9.04,EUR,transport,main_debit,False,DE,Posted
+2026-01-20T21:38,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-01-22T07:05,Starbucks,-3.65,EUR,coffee,main_debit,False,DE,Posted
+2026-01-23T09:41,FREE NOW,-3.86,EUR,transport,main_debit,False,DE,Posted
+2026-01-23T20:20,Rewe,-54,EUR,groceries,main_debit,False,DE,Posted
+2026-01-24T13:28,Rewe,-95,EUR,groceries,main_debit,False,DE,Posted
+2026-01-24T23:16,Lieferando,-14,EUR,delivery,main_debit,False,DE,Posted
 2026-01-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2026-01-25T17:45,Rewe,-32,EUR,groceries,main_debit,False,DE,Posted
-2026-01-25T20:59,Wolt,-22.5,EUR,delivery,main_debit,False,DE,Posted
-2026-01-26T07:51,Starbucks,-3.25,EUR,coffee,main_debit,False,DE,Posted
-2026-01-27T09:14,Coffee Fellows,-2.74,EUR,coffee,main_debit,False,DE,Posted
-2026-01-27T21:12,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-01-28T09:24,Starbucks,-2.67,EUR,coffee,main_debit,False,DE,Posted
-2026-01-28T11:03,Aldi,-51,EUR,groceries,main_debit,False,DE,Posted
-2026-01-28T14:24,FREE NOW,-11.9,EUR,transport,main_debit,False,DE,Posted
-2026-01-28T22:15,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2026-01-29T09:18,Coffee Fellows,-4.06,EUR,coffee,main_debit,False,DE,Posted
-2026-01-29T13:30,Lidl,-52,EUR,groceries,main_debit,False,DE,Posted
-2026-01-29T21:51,FREE NOW,-9.76,EUR,transport,main_debit,False,DE,Posted
-2026-01-30T07:05,Starbucks,-3.7,EUR,coffee,main_debit,False,DE,Posted
-2026-01-31T19:13,Aldi,-65,EUR,groceries,main_debit,False,DE,Posted
-2026-02-01T22:47,Lidl,-66.5,EUR,groceries,main_debit,False,DE,Posted
-2026-02-02T07:15,Coffee Fellows,-2.6,EUR,coffee,main_debit,False,DE,Posted
-2026-02-02T11:41,Kaufland,-60,EUR,groceries,main_debit,False,DE,Posted
-2026-02-02T22:25,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2026-02-03T08:32,Coffee Fellows,-4.34,EUR,coffee,main_debit,False,DE,Posted
-2026-02-03T10:37,Deutsche Bahn,-4.76,EUR,transport,main_debit,False,DE,Posted
-2026-02-03T18:43,CinemaxX,-14.5,EUR,entertainment,main_debit,False,DE,Posted
-2026-02-03T21:52,Wolt,-19.5,EUR,delivery,main_debit,False,DE,Posted
-2026-02-04T08:03,Deutsche Bahn,-3.17,EUR,transport,main_debit,False,DE,Posted
-2026-02-04T08:34,Starbucks,-2.74,EUR,coffee,main_debit,False,DE,Posted
-2026-02-04T19:42,Lieferando,-13,EUR,delivery,main_debit,False,DE,Posted
-2026-02-05T09:59,Coffee Fellows,-4.09,EUR,coffee,main_debit,False,DE,Posted
-2026-02-05T15:15,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2026-02-05T20:14,Hausarztpraxis Dr. Müller,-176.5,EUR,health,main_debit,False,DE,Posted
-2026-02-06T08:53,Balzac Coffee,-4.47,EUR,coffee,main_debit,False,DE,Posted
-2026-02-06T09:01,Rewe,-82.5,EUR,groceries,main_debit,False,DE,Posted
-2026-02-06T11:54,FREE NOW,-3.06,EUR,transport,main_debit,False,DE,Posted
-2026-02-06T20:30,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-02-07T13:36,Lidl,-78,EUR,groceries,main_debit,False,DE,Posted
-2026-02-07T22:01,Zur Linde,-64.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-02-08T11:41,Vattenfall,-53,EUR,utilities,main_debit,True,DE,Posted
-2026-02-08T16:30,Aldi,-79,EUR,groceries,main_debit,False,DE,Posted
-2026-02-08T18:26,Zalando,-281,EUR,shopping,main_debit,False,DE,Posted
-2026-02-09T07:50,Starbucks,-5.3,EUR,coffee,main_debit,False,DE,Posted
-2026-02-09T09:53,FREE NOW,-10.21,EUR,transport,main_debit,False,DE,Posted
-2026-02-10T08:41,Starbucks,-2.83,EUR,coffee,main_debit,False,DE,Posted
-2026-02-10T12:38,Deutsche Bahn,-8.41,EUR,transport,main_debit,False,DE,Posted
-2026-02-10T18:32,Zur Linde,-40.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-02-11T07:48,Starbucks,-4.64,EUR,coffee,main_debit,False,DE,Posted
-2026-02-11T18:30,Deutsche Bahn,-6.43,EUR,transport,main_debit,False,DE,Posted
-2026-02-12T10:32,Balzac Coffee,-3.54,EUR,coffee,main_debit,False,DE,Posted
-2026-02-12T20:27,Lieferando,-18.5,EUR,delivery,main_debit,False,DE,Posted
-2026-02-12T21:09,Kaufland,-81,EUR,groceries,main_debit,False,DE,Posted
-2026-02-13T09:10,Coffee Fellows,-4.38,EUR,coffee,main_debit,False,DE,Posted
-2026-02-13T10:40,Lidl,-35,EUR,groceries,main_debit,False,DE,Posted
-2026-02-13T10:44,Currywurst Bude,-5.99,EUR,restaurants,main_debit,False,DE,Posted
-2026-02-13T12:46,Deutsche Bahn,-3.23,EUR,transport,main_debit,False,DE,Posted
-2026-02-13T15:19,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2026-02-13T18:31,Stadtwerke,-29.5,EUR,utilities,main_debit,True,DE,Posted
-2026-02-13T20:46,Hausarztpraxis Dr. Müller,-103,EUR,health,main_debit,False,DE,Posted
-2026-02-14T13:35,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-01-25T13:05,Apotheke am Markt,-40.47,EUR,health,main_debit,False,DE,Posted
+2026-01-25T13:09,Wolt,-22.5,EUR,delivery,main_debit,False,DE,Posted
+2026-01-26T07:12,Coffee Fellows,-2.91,EUR,coffee,main_debit,False,DE,Posted
+2026-01-26T13:29,Thalia,-19.95,EUR,entertainment,main_debit,False,DE,Posted
+2026-01-26T15:24,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-01-26T16:21,Zara,-96,EUR,shopping,main_debit,False,DE,Posted
+2026-01-27T09:11,Balzac Coffee,-5.85,EUR,coffee,main_debit,False,DE,Posted
+2026-01-27T21:07,FREE NOW,-11.75,EUR,transport,main_debit,False,DE,Posted
+2026-01-28T07:46,Starbucks,-4.73,EUR,coffee,main_debit,False,DE,Posted
+2026-01-29T07:09,Starbucks,-2.92,EUR,coffee,main_debit,False,DE,Posted
+2026-01-29T18:10,Zara,-99,EUR,shopping,main_debit,False,DE,Posted
+2026-01-29T18:30,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-01-30T09:10,Balzac Coffee,-3.2,EUR,coffee,main_debit,False,DE,Posted
+2026-01-30T15:35,Rewe,-77,EUR,groceries,main_debit,False,DE,Posted
+2026-01-30T18:25,Deutsche Bahn,-8.86,EUR,transport,main_debit,False,DE,Posted
+2026-01-30T20:26,C&A,-27,EUR,shopping,main_debit,False,DE,Posted
+2026-01-31T09:13,Lidl,-56,EUR,groceries,main_debit,False,DE,Posted
+2026-02-01T10:41,Kaufland,-176,EUR,groceries,main_debit,False,DE,Posted
+2026-02-02T07:25,Starbucks,-3.28,EUR,coffee,main_debit,False,DE,Posted
+2026-02-02T16:16,Rewe,-95,EUR,groceries,main_debit,False,DE,Posted
+2026-02-02T19:06,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-02-03T08:18,Starbucks,-3.47,EUR,coffee,main_debit,False,DE,Posted
+2026-02-03T12:13,Kaufland,-176,EUR,groceries,main_debit,False,DE,Posted
+2026-02-03T13:27,FREE NOW,-6.57,EUR,transport,main_debit,False,DE,Posted
+2026-02-03T16:26,CinemaxX,-13.5,EUR,entertainment,main_debit,False,DE,Posted
+2026-02-03T19:35,Currywurst Bude,-4.59,EUR,restaurants,main_debit,False,DE,Posted
+2026-02-04T07:42,Starbucks,-4.03,EUR,coffee,main_debit,False,DE,Posted
+2026-02-04T14:00,Kaufland,-154.5,EUR,groceries,main_debit,False,DE,Posted
+2026-02-04T22:41,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-02-04T22:49,Deutsche Bahn,-3.04,EUR,transport,main_debit,False,DE,Posted
+2026-02-05T08:46,Stadtwerke,-23.5,EUR,utilities,main_debit,True,DE,Posted
+2026-02-05T09:25,Starbucks,-4.55,EUR,coffee,main_debit,False,DE,Posted
+2026-02-05T16:59,FREE NOW,-9.65,EUR,transport,main_debit,False,DE,Posted
+2026-02-06T08:04,Balzac Coffee,-5.15,EUR,coffee,main_debit,False,DE,Posted
+2026-02-07T08:18,Kaufland,-104,EUR,groceries,main_debit,False,DE,Posted
+2026-02-08T09:16,Rewe,-90,EUR,groceries,main_debit,False,DE,Posted
+2026-02-08T20:01,Steam,-14,EUR,entertainment,main_debit,False,DE,Posted
+2026-02-09T07:09,Coffee Fellows,-3.6,EUR,coffee,main_debit,False,DE,Posted
+2026-02-09T15:07,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2026-02-09T16:10,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-02-09T21:31,Lidl,-62.5,EUR,groceries,main_debit,False,DE,Posted
+2026-02-10T10:13,Balzac Coffee,-3.3,EUR,coffee,main_debit,False,DE,Posted
+2026-02-10T14:06,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-02-10T16:37,Aldi,-39,EUR,groceries,main_debit,False,DE,Posted
+2026-02-10T20:19,Deutsche Bahn,-3.96,EUR,transport,main_debit,False,DE,Posted
+2026-02-11T07:18,Coffee Fellows,-3.49,EUR,coffee,main_debit,False,DE,Posted
+2026-02-11T14:01,Aldi,-36,EUR,groceries,main_debit,False,DE,Posted
+2026-02-11T21:16,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-02-12T07:04,Coffee Fellows,-4.21,EUR,coffee,main_debit,False,DE,Posted
+2026-02-12T16:04,FREE NOW,-8.87,EUR,transport,main_debit,False,DE,Posted
+2026-02-13T09:08,MediaMarkt,-71.5,EUR,shopping,main_debit,False,DE,Posted
+2026-02-13T09:14,Starbucks,-4.25,EUR,coffee,main_debit,False,DE,Posted
+2026-02-13T20:09,Vattenfall,-46,EUR,utilities,main_debit,True,DE,Posted
 2026-02-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
-2026-02-14T21:37,Nordsee,-10.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-02-15T08:06,Nordsee,-9.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-02-15T10:53,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2026-02-15T17:08,Aldi,-30.5,EUR,groceries,main_debit,False,DE,Posted
-2026-02-16T07:17,Coffee Fellows,-3.66,EUR,coffee,main_debit,False,DE,Posted
-2026-02-16T13:07,Nordsee,-11.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-02-17T08:20,Deutsche Bahn,-7.12,EUR,transport,main_debit,False,DE,Posted
-2026-02-17T08:49,Balzac Coffee,-3.36,EUR,coffee,main_debit,False,DE,Posted
-2026-02-18T09:06,Coffee Fellows,-3.74,EUR,coffee,main_debit,False,DE,Posted
-2026-02-18T11:01,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-02-18T18:22,Rewe,-41.5,EUR,groceries,main_debit,False,DE,Posted
-2026-02-19T09:59,Balzac Coffee,-4.36,EUR,coffee,main_debit,False,DE,Posted
-2026-02-20T10:05,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-02-22T10:53,MediaMarkt,-224,EUR,shopping,main_debit,False,DE,Posted
-2026-02-22T12:12,Wolt,-14.5,EUR,delivery,main_debit,False,DE,Posted
-2026-02-22T21:29,Aldi,-63.5,EUR,groceries,main_debit,False,DE,Posted
-2026-02-23T07:44,Starbucks,-4.37,EUR,coffee,main_debit,False,DE,Posted
-2026-02-23T13:30,Lidl,-75.5,EUR,groceries,main_debit,False,DE,Posted
-2026-02-23T15:04,Deutsche Bahn,-6.43,EUR,transport,main_debit,False,DE,Posted
-2026-02-23T19:21,Uber Eats,-15.5,EUR,delivery,main_debit,False,DE,Posted
-2026-02-24T08:03,Coffee Fellows,-3.41,EUR,coffee,main_debit,False,DE,Posted
-2026-02-24T13:49,C&A,-84.5,EUR,shopping,main_debit,False,DE,Posted
-2026-02-24T20:54,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-02-25T08:19,Balzac Coffee,-4.46,EUR,coffee,main_debit,False,DE,Posted
+2026-02-14T16:07,Kaufland,-68,EUR,groceries,main_debit,False,DE,Posted
+2026-02-14T16:19,Thalia,-20.79,EUR,entertainment,main_debit,False,DE,Posted
+2026-02-14T21:42,Uber Eats,-18,EUR,delivery,main_debit,False,DE,Posted
+2026-02-15T17:59,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-02-15T18:27,Lidl,-22,EUR,groceries,main_debit,False,DE,Posted
+2026-02-15T19:06,Zur Linde,-48.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-02-16T09:52,Starbucks,-3.61,EUR,coffee,main_debit,False,DE,Posted
+2026-02-16T15:17,FREE NOW,-11.04,EUR,transport,main_debit,False,DE,Posted
+2026-02-17T19:53,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-02-18T09:27,Balzac Coffee,-4.56,EUR,coffee,main_debit,False,DE,Posted
+2026-02-18T10:25,Nordsee,-16,EUR,restaurants,main_debit,False,DE,Posted
+2026-02-19T07:10,Coffee Fellows,-2.92,EUR,coffee,main_debit,False,DE,Posted
+2026-02-19T13:35,Zur Linde,-37.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-02-20T07:26,Coffee Fellows,-2.63,EUR,coffee,main_debit,False,DE,Posted
+2026-02-20T11:57,FREE NOW,-7.98,EUR,transport,main_debit,False,DE,Posted
+2026-02-21T18:52,Lidl,-62.5,EUR,groceries,main_debit,False,DE,Posted
+2026-02-22T10:28,Rewe,-98,EUR,groceries,main_debit,False,DE,Posted
+2026-02-23T09:10,Balzac Coffee,-4.7,EUR,coffee,main_debit,False,DE,Posted
+2026-02-23T17:36,FREE NOW,-11.56,EUR,transport,main_debit,False,DE,Posted
+2026-02-24T07:52,Coffee Fellows,-3.4,EUR,coffee,main_debit,False,DE,Posted
+2026-02-24T08:06,Kaufland,-96,EUR,groceries,main_debit,False,DE,Posted
+2026-02-25T09:09,Balzac Coffee,-4.58,EUR,coffee,main_debit,False,DE,Posted
 2026-02-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2026-02-25T17:25,Aldi,-88.5,EUR,groceries,main_debit,False,DE,Posted
-2026-02-25T21:00,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-02-26T09:00,Balzac Coffee,-5.63,EUR,coffee,main_debit,False,DE,Posted
-2026-02-26T10:01,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2026-02-27T08:30,Starbucks,-2.96,EUR,coffee,main_debit,False,DE,Posted
-2026-02-27T11:14,Nordsee,-18,EUR,restaurants,main_debit,False,DE,Posted
-2026-02-27T17:31,FREE NOW,-3.63,EUR,transport,main_debit,False,DE,Posted
-2026-02-27T19:12,Zara,-103,EUR,shopping,main_debit,False,DE,Posted
-2026-02-28T17:39,Rewe,-46,EUR,groceries,main_debit,False,DE,Posted
-2026-02-28T22:36,C&A,-57.5,EUR,shopping,main_debit,False,DE,Posted
-2026-03-01T18:26,Currywurst Bude,-5.76,EUR,restaurants,main_debit,False,DE,Posted
-2026-03-02T09:01,Starbucks,-3.03,EUR,coffee,main_debit,False,DE,Posted
-2026-03-02T17:31,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-03-02T21:37,Kaufland,-159.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-03T08:45,Kaufland,-118.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-03T09:28,Balzac Coffee,-3.07,EUR,coffee,main_debit,False,DE,Posted
-2026-03-03T12:05,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-03-04T09:51,Starbucks,-3.45,EUR,coffee,main_debit,False,DE,Posted
-2026-03-04T11:47,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-03-04T16:21,Nordsee,-12.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-03-05T10:28,Balzac Coffee,-3.19,EUR,coffee,main_debit,False,DE,Posted
-2026-03-05T17:25,Apotheke am Markt,-49.15,EUR,health,main_debit,False,DE,Posted
-2026-03-05T17:32,FREE NOW,-4.39,EUR,transport,main_debit,False,DE,Posted
-2026-03-05T20:51,Lidl,-33.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-05T23:27,Wolt,-19,EUR,delivery,main_debit,False,DE,Posted
-2026-03-06T07:17,Starbucks,-5.44,EUR,coffee,main_debit,False,DE,Posted
-2026-03-06T20:54,Deutsche Bahn,-10,EUR,transport,main_debit,False,DE,Posted
-2026-03-07T18:15,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2026-03-07T22:54,Kaufland,-71.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-08T15:28,Zara,-36,EUR,shopping,main_debit,False,DE,Posted
-2026-03-08T15:58,Lidl,-77,EUR,groceries,main_debit,False,DE,Posted
-2026-03-08T17:32,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2026-03-08T19:41,Zur Linde,-45.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-03-08T21:56,Thalia,-6.89,EUR,entertainment,main_debit,False,DE,Posted
-2026-03-09T09:05,Lidl,-40,EUR,groceries,main_debit,False,DE,Posted
-2026-03-09T09:31,Currywurst Bude,-3.25,EUR,restaurants,main_debit,False,DE,Posted
-2026-03-09T12:11,Stadtwerke,-16,EUR,utilities,main_debit,True,DE,Posted
-2026-03-10T09:24,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2026-03-10T09:26,Balzac Coffee,-3.93,EUR,coffee,main_debit,False,DE,Posted
-2026-03-10T12:00,FREE NOW,-10.39,EUR,transport,main_debit,False,DE,Posted
-2026-03-11T07:37,Starbucks,-4.99,EUR,coffee,main_debit,False,DE,Posted
-2026-03-11T17:27,Rewe,-92.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-12T07:23,Starbucks,-3.07,EUR,coffee,main_debit,False,DE,Posted
-2026-03-12T08:52,FREE NOW,-10.15,EUR,transport,main_debit,False,DE,Posted
-2026-03-12T22:51,Uber Eats,-15.5,EUR,delivery,main_debit,False,DE,Posted
-2026-03-13T07:30,Coffee Fellows,-4.18,EUR,coffee,main_debit,False,DE,Posted
-2026-03-13T17:01,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2026-03-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
-2026-03-14T20:46,Currywurst Bude,-4.38,EUR,restaurants,main_debit,False,DE,Posted
-2026-03-14T21:41,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-03-15T15:21,Vattenfall,-82,EUR,utilities,main_debit,True,DE,Posted
-2026-03-15T20:35,Uber Eats,-29,EUR,delivery,main_debit,False,DE,Posted
-2026-03-16T09:57,Starbucks,-2.69,EUR,coffee,main_debit,False,DE,Posted
-2026-03-16T20:12,Uber Eats,-18.5,EUR,delivery,main_debit,False,DE,Posted
-2026-03-16T21:35,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-03-17T09:49,Coffee Fellows,-3.82,EUR,coffee,main_debit,False,DE,Posted
-2026-03-17T13:54,Lieferando,-34,EUR,delivery,main_debit,False,DE,Posted
-2026-03-18T14:45,Lidl,-63.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-18T17:57,Currywurst Bude,-4.69,EUR,restaurants,main_debit,False,DE,Posted
-2026-03-18T19:02,Steam,-22,EUR,entertainment,main_debit,False,DE,Posted
-2026-03-18T22:10,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-03-19T09:37,Starbucks,-3.71,EUR,coffee,main_debit,False,DE,Posted
-2026-03-20T14:58,Apotheke am Markt,-16.09,EUR,health,main_debit,False,DE,Posted
-2026-03-20T21:26,Lidl,-70,EUR,groceries,main_debit,False,DE,Posted
-2026-03-21T11:09,Kaufland,-99.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-21T14:58,Steam,-18.5,EUR,entertainment,main_debit,False,DE,Posted
-2026-03-21T21:03,Currywurst Bude,-5.84,EUR,restaurants,main_debit,False,DE,Posted
-2026-03-23T07:07,Starbucks,-4.94,EUR,coffee,main_debit,False,DE,Posted
-2026-03-23T08:08,FREE NOW,-7.52,EUR,transport,main_debit,False,DE,Posted
-2026-03-23T17:29,Nordsee,-11.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-03-23T20:49,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2026-03-23T22:05,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-03-24T17:16,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-02-25T13:37,Currywurst Bude,-5.75,EUR,restaurants,main_debit,False,DE,Posted
+2026-02-26T08:36,FREE NOW,-8.21,EUR,transport,main_debit,False,DE,Posted
+2026-02-26T09:25,Balzac Coffee,-3.07,EUR,coffee,main_debit,False,DE,Posted
+2026-02-26T09:38,Kaufland,-157.5,EUR,groceries,main_debit,False,DE,Posted
+2026-02-27T07:00,Coffee Fellows,-4.08,EUR,coffee,main_debit,False,DE,Posted
+2026-02-27T11:35,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-02-27T22:00,Lieferando,-24,EUR,delivery,main_debit,False,DE,Posted
+2026-02-28T10:29,Rewe,-27,EUR,groceries,main_debit,False,DE,Posted
+2026-03-02T07:34,Starbucks,-3.21,EUR,coffee,main_debit,False,DE,Posted
+2026-03-02T08:01,Aldi,-40.5,EUR,groceries,main_debit,False,DE,Posted
+2026-03-03T08:11,Coffee Fellows,-2.64,EUR,coffee,main_debit,False,DE,Posted
+2026-03-04T08:57,Balzac Coffee,-4.88,EUR,coffee,main_debit,False,DE,Posted
+2026-03-04T15:34,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-03-04T22:50,Uber Eats,-36,EUR,delivery,main_debit,False,DE,Posted
+2026-03-05T09:55,Coffee Fellows,-4.21,EUR,coffee,main_debit,False,DE,Posted
+2026-03-05T13:51,Wolt,-27,EUR,delivery,main_debit,False,DE,Posted
+2026-03-05T14:30,Kaufland,-161.5,EUR,groceries,main_debit,False,DE,Posted
+2026-03-05T16:32,C&A,-78,EUR,shopping,main_debit,False,DE,Posted
+2026-03-05T18:16,Stadtwerke,-20,EUR,utilities,main_debit,True,DE,Posted
+2026-03-05T22:34,FREE NOW,-10.88,EUR,transport,main_debit,False,DE,Posted
+2026-03-05T22:43,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-03-06T11:15,Lidl,-18,EUR,groceries,main_debit,False,DE,Posted
+2026-03-06T13:56,Vattenfall,-81,EUR,utilities,main_debit,True,DE,Posted
+2026-03-06T14:01,Zur Linde,-69.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-03-06T21:27,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-03-08T08:57,Lidl,-59.5,EUR,groceries,main_debit,False,DE,Posted
+2026-03-08T15:16,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2026-03-08T20:59,Wolt,-26.5,EUR,delivery,main_debit,False,DE,Posted
+2026-03-09T13:20,Rewe,-75.5,EUR,groceries,main_debit,False,DE,Posted
+2026-03-10T10:37,Balzac Coffee,-4.9,EUR,coffee,main_debit,False,DE,Posted
+2026-03-11T08:43,Coffee Fellows,-3.86,EUR,coffee,main_debit,False,DE,Posted
+2026-03-11T19:51,Uber Eats,-32.5,EUR,delivery,main_debit,False,DE,Posted
+2026-03-11T19:54,Lidl,-18,EUR,groceries,main_debit,False,DE,Posted
+2026-03-12T08:33,Starbucks,-3.28,EUR,coffee,main_debit,False,DE,Posted
+2026-03-12T09:42,Deutsche Bahn,-3.25,EUR,transport,main_debit,False,DE,Posted
+2026-03-13T08:47,Starbucks,-5.07,EUR,coffee,main_debit,False,DE,Posted
+2026-03-13T14:09,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-03-13T14:43,Zalando,-81,EUR,shopping,main_debit,False,DE,Posted
+2026-03-14T14:00,Credit Card Payment,-462.81,EUR,credit_payment,main_debit,False,DE,Posted
+2026-03-14T14:46,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-03-15T22:49,Lieferando,-24.5,EUR,delivery,main_debit,False,DE,Posted
+2026-03-16T09:34,Starbucks,-5.1,EUR,coffee,main_debit,False,DE,Posted
+2026-03-16T22:23,Uber Eats,-25,EUR,delivery,main_debit,False,DE,Posted
+2026-03-17T10:11,Balzac Coffee,-5.69,EUR,coffee,main_debit,False,DE,Posted
+2026-03-17T22:16,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-03-18T07:58,Starbucks,-3.52,EUR,coffee,main_debit,False,DE,Posted
+2026-03-18T20:29,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-03-19T08:54,Starbucks,-4.13,EUR,coffee,main_debit,False,DE,Posted
+2026-03-19T11:09,FREE NOW,-10.03,EUR,transport,main_debit,False,DE,Posted
+2026-03-20T07:11,Starbucks,-3.44,EUR,coffee,main_debit,False,DE,Posted
+2026-03-20T14:20,Zur Linde,-43,EUR,restaurants,main_debit,False,DE,Posted
+2026-03-21T11:04,Lidl,-75.5,EUR,groceries,main_debit,False,DE,Posted
+2026-03-21T12:22,Currywurst Bude,-3.58,EUR,restaurants,main_debit,False,DE,Posted
+2026-03-22T11:00,C&A,-35,EUR,shopping,main_debit,False,DE,Posted
+2026-03-22T15:33,Zur Linde,-59.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-03-23T08:40,Coffee Fellows,-3.34,EUR,coffee,main_debit,False,DE,Posted
+2026-03-23T10:13,Lidl,-16,EUR,groceries,main_debit,False,DE,Posted
+2026-03-23T11:44,Apotheke am Markt,-37.37,EUR,health,main_debit,False,DE,Posted
+2026-03-23T20:54,FREE NOW,-6.44,EUR,transport,main_debit,False,DE,Posted
+2026-03-23T21:25,Booking.com,-500.5,EUR,travel,credit_card,False,NL,Posted
+2026-03-24T07:25,Coffee Fellows,-4.4,EUR,coffee,main_debit,False,DE,Posted
+2026-03-24T19:42,FREE NOW,-10.8,EUR,transport,main_debit,False,DE,Posted
+2026-03-24T21:23,Lidl,-23,EUR,groceries,main_debit,False,DE,Posted
+2026-03-25T09:23,Balzac Coffee,-5.78,EUR,coffee,main_debit,False,DE,Posted
 2026-03-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2026-03-25T10:49,Balzac Coffee,-3.21,EUR,coffee,main_debit,False,DE,Posted
-2026-03-25T16:58,Aldi,-46.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-25T18:54,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-03-26T08:10,Starbucks,-4.58,EUR,coffee,main_debit,False,DE,Posted
-2026-03-27T07:45,Starbucks,-5.38,EUR,coffee,main_debit,False,DE,Posted
-2026-03-27T09:39,Deutsche Bahn,-5.32,EUR,transport,main_debit,False,DE,Posted
-2026-03-28T19:27,Rewe,-92.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-28T21:42,Wolt,-24.5,EUR,delivery,main_debit,False,DE,Posted
-2026-03-29T19:48,Uber Eats,-38,EUR,delivery,main_debit,False,DE,Posted
-2026-03-29T21:58,Lidl,-18.5,EUR,groceries,main_debit,False,DE,Posted
-2026-03-30T10:57,Balzac Coffee,-3.35,EUR,coffee,main_debit,False,DE,Posted
-2026-03-30T17:59,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-03-31T07:02,Starbucks,-2.62,EUR,coffee,main_debit,False,DE,Posted
-2026-03-31T08:45,Lidl,-34.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-01T09:58,Starbucks,-4.91,EUR,coffee,main_debit,False,DE,Posted
-2026-04-01T14:54,CinemaxX,-9,EUR,entertainment,main_debit,False,DE,Posted
-2026-04-01T21:28,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-04-02T19:27,Uber Eats,-30,EUR,delivery,main_debit,False,DE,Posted
-2026-04-02T21:22,FREE NOW,-6.15,EUR,transport,main_debit,False,DE,Posted
-2026-04-02T22:13,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2026-04-03T08:59,Starbucks,-3.07,EUR,coffee,main_debit,False,DE,Posted
-2026-04-03T10:08,Kaufland,-76.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-03T16:51,FREE NOW,-4.5,EUR,transport,main_debit,False,DE,Posted
-2026-04-05T08:07,Rewe,-82,EUR,groceries,main_debit,False,DE,Posted
-2026-04-05T15:47,Vattenfall,-79,EUR,utilities,main_debit,True,DE,Posted
-2026-04-05T20:59,Uber Eats,-19.5,EUR,delivery,main_debit,False,DE,Posted
-2026-04-06T10:58,Balzac Coffee,-5.39,EUR,coffee,main_debit,False,DE,Posted
-2026-04-06T16:59,Apotheke am Markt,-27.8,EUR,health,main_debit,False,DE,Posted
-2026-04-06T22:29,Wolt,-10.5,EUR,delivery,main_debit,False,DE,Posted
-2026-04-07T10:08,Balzac Coffee,-4.68,EUR,coffee,main_debit,False,DE,Posted
-2026-04-07T13:31,Nordsee,-14.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-04-07T17:29,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-04-07T21:47,Rewe,-75.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-08T08:34,Balzac Coffee,-4.89,EUR,coffee,main_debit,False,DE,Posted
-2026-04-08T22:21,C&A,-105.5,EUR,shopping,main_debit,False,DE,Posted
-2026-04-08T22:43,Wolt,-14.5,EUR,delivery,main_debit,False,DE,Posted
-2026-04-09T08:07,Starbucks,-5.13,EUR,coffee,main_debit,False,DE,Posted
-2026-04-09T13:49,Hausarztpraxis Dr. Müller,-79.5,EUR,health,main_debit,False,DE,Posted
-2026-04-10T08:08,Balzac Coffee,-5.77,EUR,coffee,main_debit,False,DE,Posted
-2026-04-11T10:47,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-04-11T19:49,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2026-04-11T21:48,Uber Eats,-35.5,EUR,delivery,main_debit,False,DE,Posted
-2026-04-12T14:37,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-04-12T21:29,Zur Linde,-33,EUR,restaurants,main_debit,False,DE,Posted
-2026-04-12T22:40,Aldi,-28.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-13T07:33,Starbucks,-5.23,EUR,coffee,main_debit,False,DE,Posted
-2026-04-13T08:46,Zara,-31.5,EUR,shopping,main_debit,False,DE,Posted
-2026-04-13T22:25,Uber Eats,-20,EUR,delivery,main_debit,False,DE,Posted
-2026-04-14T14:00,Credit Card Payment,-403.88,EUR,credit_payment,main_debit,False,DE,Posted
-2026-04-14T14:22,Deutsche Bahn,-6.71,EUR,transport,main_debit,False,DE,Posted
-2026-04-14T14:32,Kaufland,-54.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-14T18:48,Stadtwerke,-27,EUR,utilities,main_debit,True,DE,Posted
-2026-04-15T14:02,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2026-04-16T07:14,Starbucks,-2.75,EUR,coffee,main_debit,False,DE,Posted
-2026-04-16T09:48,Deutsche Bahn,-3.3,EUR,transport,main_debit,False,DE,Posted
-2026-04-16T19:23,MediaMarkt,-48,EUR,shopping,main_debit,False,DE,Posted
-2026-04-16T21:25,Rewe,-72.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-17T09:09,Coffee Fellows,-3.45,EUR,coffee,main_debit,False,DE,Posted
-2026-04-17T18:26,MediaMarkt,-89,EUR,shopping,main_debit,False,DE,Posted
-2026-04-17T19:51,FREE NOW,-5.07,EUR,transport,main_debit,False,DE,Posted
-2026-04-18T20:53,Lidl,-69.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-19T10:17,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2026-04-19T14:59,Rewe,-69.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-19T15:47,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2026-04-19T20:11,Apotheke am Markt,-9.82,EUR,health,main_debit,False,DE,Posted
-2026-04-19T20:26,Uber Eats,-34,EUR,delivery,main_debit,False,DE,Posted
-2026-04-20T09:20,Starbucks,-4.11,EUR,coffee,main_debit,False,DE,Posted
-2026-04-21T07:32,Coffee Fellows,-3.2,EUR,coffee,main_debit,False,DE,Posted
-2026-04-22T08:00,Coffee Fellows,-3.58,EUR,coffee,main_debit,False,DE,Posted
-2026-04-22T15:14,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-04-22T15:41,Lidl,-16,EUR,groceries,main_debit,False,DE,Posted
-2026-04-22T20:52,Uber Eats,-40,EUR,delivery,main_debit,False,DE,Posted
-2026-04-23T08:56,Coffee Fellows,-2.7,EUR,coffee,main_debit,False,DE,Posted
-2026-04-23T15:19,Kaufland,-105.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-23T22:40,FREE NOW,-4.69,EUR,transport,main_debit,False,DE,Posted
-2026-04-24T09:40,Starbucks,-4.02,EUR,coffee,main_debit,False,DE,Posted
-2026-04-24T13:43,Lidl,-77,EUR,groceries,main_debit,False,DE,Posted
+2026-03-25T15:26,Kaufland,-59,EUR,groceries,main_debit,False,DE,Posted
+2026-03-25T16:05,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-03-27T08:54,Balzac Coffee,-5.8,EUR,coffee,main_debit,False,DE,Posted
+2026-03-27T15:40,Steam,-58,EUR,entertainment,main_debit,False,DE,Posted
+2026-03-27T18:33,Deutsche Bahn,-7.38,EUR,transport,main_debit,False,DE,Posted
+2026-03-27T21:03,Currywurst Bude,-4.27,EUR,restaurants,main_debit,False,DE,Posted
+2026-03-28T22:45,Nordsee,-10.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-03-29T10:16,Aldi,-70.5,EUR,groceries,main_debit,False,DE,Posted
+2026-03-29T11:47,CinemaxX,-8,EUR,entertainment,main_debit,False,DE,Posted
+2026-03-29T22:56,Uber Eats,-27,EUR,delivery,main_debit,False,DE,Posted
+2026-03-30T08:57,Starbucks,-4.51,EUR,coffee,main_debit,False,DE,Posted
+2026-03-30T09:02,Rewe,-74,EUR,groceries,main_debit,False,DE,Posted
+2026-03-31T07:23,Coffee Fellows,-3.12,EUR,coffee,main_debit,False,DE,Posted
+2026-04-01T09:45,Balzac Coffee,-3.39,EUR,coffee,main_debit,False,DE,Posted
+2026-04-01T14:47,Kaufland,-173,EUR,groceries,main_debit,False,DE,Posted
+2026-04-02T08:12,Zara,-44.5,EUR,shopping,main_debit,False,DE,Posted
+2026-04-02T08:29,Coffee Fellows,-2.59,EUR,coffee,main_debit,False,DE,Posted
+2026-04-02T21:55,Rewe,-90,EUR,groceries,main_debit,False,DE,Posted
+2026-04-03T08:17,Coffee Fellows,-3.55,EUR,coffee,main_debit,False,DE,Posted
+2026-04-03T21:14,Currywurst Bude,-4.56,EUR,restaurants,main_debit,False,DE,Posted
+2026-04-04T18:12,Thalia,-19.28,EUR,entertainment,main_debit,False,DE,Posted
+2026-04-04T18:45,Kaufland,-67,EUR,groceries,main_debit,False,DE,Posted
+2026-04-04T20:50,Nordsee,-15.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-04-05T17:45,Rewe,-32,EUR,groceries,main_debit,False,DE,Posted
+2026-04-05T20:59,Wolt,-22.5,EUR,delivery,main_debit,False,DE,Posted
+2026-04-06T07:51,Starbucks,-3.25,EUR,coffee,main_debit,False,DE,Posted
+2026-04-07T09:14,Coffee Fellows,-2.74,EUR,coffee,main_debit,False,DE,Posted
+2026-04-08T09:24,Starbucks,-2.67,EUR,coffee,main_debit,False,DE,Posted
+2026-04-08T11:03,Aldi,-51,EUR,groceries,main_debit,False,DE,Posted
+2026-04-08T14:24,FREE NOW,-11.9,EUR,transport,main_debit,False,DE,Posted
+2026-04-09T09:18,Coffee Fellows,-4.06,EUR,coffee,main_debit,False,DE,Posted
+2026-04-09T13:30,Lidl,-52,EUR,groceries,main_debit,False,DE,Posted
+2026-04-09T21:51,FREE NOW,-9.76,EUR,transport,main_debit,False,DE,Posted
+2026-04-10T07:05,Starbucks,-3.7,EUR,coffee,main_debit,False,DE,Posted
+2026-04-10T14:46,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-04-11T11:59,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-04-11T19:13,Aldi,-65,EUR,groceries,main_debit,False,DE,Posted
+2026-04-12T17:56,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2026-04-12T18:27,Vattenfall,-80,EUR,utilities,main_debit,True,DE,Posted
+2026-04-12T19:50,Stadtwerke,-18,EUR,utilities,main_debit,True,DE,Posted
+2026-04-12T22:47,Lidl,-66.5,EUR,groceries,main_debit,False,DE,Posted
+2026-04-13T07:15,Coffee Fellows,-2.6,EUR,coffee,main_debit,False,DE,Posted
+2026-04-13T11:41,Kaufland,-60,EUR,groceries,main_debit,False,DE,Posted
+2026-04-14T08:32,Coffee Fellows,-4.34,EUR,coffee,main_debit,False,DE,Posted
+2026-04-14T10:37,Deutsche Bahn,-4.76,EUR,transport,main_debit,False,DE,Posted
+2026-04-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
+2026-04-14T17:26,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-04-14T18:43,CinemaxX,-14.5,EUR,entertainment,main_debit,False,DE,Posted
+2026-04-14T21:52,Wolt,-19.5,EUR,delivery,main_debit,False,DE,Posted
+2026-04-15T08:03,Deutsche Bahn,-3.17,EUR,transport,main_debit,False,DE,Posted
+2026-04-15T08:34,Starbucks,-2.74,EUR,coffee,main_debit,False,DE,Posted
+2026-04-15T19:42,Lieferando,-13,EUR,delivery,main_debit,False,DE,Posted
+2026-04-16T09:59,Coffee Fellows,-4.09,EUR,coffee,main_debit,False,DE,Posted
+2026-04-16T20:14,Hausarztpraxis Dr. Müller,-176.5,EUR,health,main_debit,False,DE,Posted
+2026-04-17T08:53,Balzac Coffee,-4.47,EUR,coffee,main_debit,False,DE,Posted
+2026-04-17T09:01,Rewe,-82.5,EUR,groceries,main_debit,False,DE,Posted
+2026-04-17T11:54,FREE NOW,-3.06,EUR,transport,main_debit,False,DE,Posted
+2026-04-18T13:36,Lidl,-78,EUR,groceries,main_debit,False,DE,Posted
+2026-04-18T22:01,Zur Linde,-64.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-04-19T16:30,Aldi,-79,EUR,groceries,main_debit,False,DE,Posted
+2026-04-19T18:26,Zalando,-281,EUR,shopping,main_debit,False,DE,Posted
+2026-04-19T21:06,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-04-20T07:50,Starbucks,-5.3,EUR,coffee,main_debit,False,DE,Posted
+2026-04-20T09:53,FREE NOW,-10.21,EUR,transport,main_debit,False,DE,Posted
+2026-04-21T08:41,Starbucks,-2.83,EUR,coffee,main_debit,False,DE,Posted
+2026-04-21T12:38,Deutsche Bahn,-8.41,EUR,transport,main_debit,False,DE,Posted
+2026-04-21T18:32,Zur Linde,-40.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-04-22T07:48,Starbucks,-4.64,EUR,coffee,main_debit,False,DE,Posted
+2026-04-22T18:30,Deutsche Bahn,-6.43,EUR,transport,main_debit,False,DE,Posted
+2026-04-23T10:32,Balzac Coffee,-3.54,EUR,coffee,main_debit,False,DE,Posted
+2026-04-23T20:27,Lieferando,-18.5,EUR,delivery,main_debit,False,DE,Posted
+2026-04-23T21:09,Kaufland,-81,EUR,groceries,main_debit,False,DE,Posted
+2026-04-24T09:10,Coffee Fellows,-4.38,EUR,coffee,main_debit,False,DE,Posted
+2026-04-24T10:40,Lidl,-35,EUR,groceries,main_debit,False,DE,Posted
+2026-04-24T10:44,Currywurst Bude,-5.99,EUR,restaurants,main_debit,False,DE,Posted
+2026-04-24T12:46,Deutsche Bahn,-3.23,EUR,transport,main_debit,False,DE,Posted
+2026-04-24T20:46,Hausarztpraxis Dr. Müller,-103,EUR,health,main_debit,False,DE,Posted
 2026-04-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2026-04-25T17:12,Aldi,-110.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-26T08:41,Aldi,-88,EUR,groceries,main_debit,False,DE,Posted
-2026-04-26T21:40,Uber Eats,-32,EUR,delivery,main_debit,False,DE,Posted
-2026-04-27T08:22,Balzac Coffee,-5.2,EUR,coffee,main_debit,False,DE,Posted
-2026-04-28T08:21,Balzac Coffee,-5.3,EUR,coffee,main_debit,False,DE,Posted
-2026-04-29T07:28,Coffee Fellows,-3.04,EUR,coffee,main_debit,False,DE,Posted
-2026-04-29T15:37,Deutsche Bahn,-4.83,EUR,transport,main_debit,False,DE,Posted
-2026-04-29T21:05,Kaufland,-147.5,EUR,groceries,main_debit,False,DE,Posted
-2026-04-30T09:51,Balzac Coffee,-5.87,EUR,coffee,main_debit,False,DE,Posted
-2026-04-30T10:06,FREE NOW,-9.99,EUR,transport,main_debit,False,DE,Posted
-2026-05-01T19:06,FREE NOW,-8.1,EUR,transport,main_debit,False,DE,Posted
-2026-05-02T21:15,Aldi,-113.5,EUR,groceries,main_debit,False,DE,Posted
-2026-05-02T22:31,Lieferando,-23,EUR,delivery,main_debit,False,DE,Posted
-2026-05-04T18:04,Deutsche Bahn,-9.47,EUR,transport,main_debit,False,DE,Posted
-2026-05-04T18:26,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2026-05-05T09:18,Coffee Fellows,-2.65,EUR,coffee,main_debit,False,DE,Posted
-2026-05-05T12:54,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-05-05T13:53,Currywurst Bude,-3.83,EUR,restaurants,main_debit,False,DE,Posted
-2026-05-05T15:03,Rewe,-56.5,EUR,groceries,main_debit,False,DE,Posted
-2026-05-06T09:32,Coffee Fellows,-3.38,EUR,coffee,main_debit,False,DE,Posted
-2026-05-06T20:53,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-05-07T07:12,Coffee Fellows,-4.1,EUR,coffee,main_debit,False,DE,Posted
-2026-05-07T08:08,MediaMarkt,-29.5,EUR,shopping,main_debit,False,DE,Posted
-2026-05-07T20:35,Vattenfall,-84,EUR,utilities,main_debit,True,DE,Posted
-2026-05-08T09:36,Aldi,-45,EUR,groceries,main_debit,False,DE,Posted
-2026-05-08T13:59,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-05-08T21:25,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2026-05-08T22:07,Zalando,-370.5,EUR,shopping,main_debit,False,DE,Posted
-2026-05-11T09:48,Balzac Coffee,-5.6,EUR,coffee,main_debit,False,DE,Posted
-2026-05-11T22:27,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-05-12T09:45,Lidl,-49,EUR,groceries,main_debit,False,DE,Posted
-2026-05-12T14:27,Stadtwerke,-17.5,EUR,utilities,main_debit,True,DE,Posted
-2026-05-13T07:29,Coffee Fellows,-3.97,EUR,coffee,main_debit,False,DE,Posted
-2026-05-13T12:29,FREE NOW,-4.39,EUR,transport,main_debit,False,DE,Posted
-2026-05-13T15:32,Zur Linde,-46,EUR,restaurants,main_debit,False,DE,Posted
-2026-05-13T17:43,Rewe,-63.5,EUR,groceries,main_debit,False,DE,Posted
-2026-05-14T10:10,Balzac Coffee,-5.89,EUR,coffee,main_debit,False,DE,Posted
-2026-05-14T12:12,Rewe,-76.5,EUR,groceries,main_debit,False,DE,Posted
-2026-05-14T13:32,FREE NOW,-4.33,EUR,transport,main_debit,False,DE,Posted
+2026-04-25T21:37,Nordsee,-10.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-04-26T08:06,Nordsee,-9.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-04-26T17:08,Aldi,-30.5,EUR,groceries,main_debit,False,DE,Posted
+2026-04-27T07:17,Coffee Fellows,-3.66,EUR,coffee,main_debit,False,DE,Posted
+2026-04-27T13:07,Nordsee,-11.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-04-27T14:32,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-04-27T17:33,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-04-28T08:20,Deutsche Bahn,-7.12,EUR,transport,main_debit,False,DE,Posted
+2026-04-28T08:49,Balzac Coffee,-3.36,EUR,coffee,main_debit,False,DE,Posted
+2026-04-29T09:06,Coffee Fellows,-3.74,EUR,coffee,main_debit,False,DE,Posted
+2026-04-29T11:01,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-04-29T18:22,Rewe,-41.5,EUR,groceries,main_debit,False,DE,Posted
+2026-04-30T09:59,Balzac Coffee,-4.36,EUR,coffee,main_debit,False,DE,Posted
+2026-05-01T10:05,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-05-03T10:53,MediaMarkt,-224,EUR,shopping,main_debit,False,DE,Posted
+2026-05-03T12:12,Wolt,-14.5,EUR,delivery,main_debit,False,DE,Posted
+2026-05-03T21:29,Aldi,-63.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-04T07:44,Starbucks,-4.37,EUR,coffee,main_debit,False,DE,Posted
+2026-05-04T13:30,Lidl,-75.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-04T15:04,Deutsche Bahn,-6.43,EUR,transport,main_debit,False,DE,Posted
+2026-05-04T19:21,Uber Eats,-15.5,EUR,delivery,main_debit,False,DE,Posted
+2026-05-05T08:03,Coffee Fellows,-3.41,EUR,coffee,main_debit,False,DE,Posted
+2026-05-05T13:49,C&A,-84.5,EUR,shopping,main_debit,False,DE,Posted
+2026-05-05T20:54,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-05-06T08:19,Balzac Coffee,-4.46,EUR,coffee,main_debit,False,DE,Posted
+2026-05-06T17:01,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-05-06T17:25,Aldi,-88.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-06T21:00,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-05-07T09:00,Balzac Coffee,-5.63,EUR,coffee,main_debit,False,DE,Posted
+2026-05-08T08:30,Starbucks,-2.96,EUR,coffee,main_debit,False,DE,Posted
+2026-05-08T11:14,Nordsee,-18,EUR,restaurants,main_debit,False,DE,Posted
+2026-05-08T13:06,Vattenfall,-45.5,EUR,utilities,main_debit,True,DE,Posted
+2026-05-08T17:31,FREE NOW,-3.63,EUR,transport,main_debit,False,DE,Posted
+2026-05-08T19:12,Zara,-103,EUR,shopping,main_debit,False,DE,Posted
+2026-05-09T17:39,Rewe,-46,EUR,groceries,main_debit,False,DE,Posted
+2026-05-09T22:36,C&A,-57.5,EUR,shopping,main_debit,False,DE,Posted
+2026-05-10T18:26,Currywurst Bude,-5.76,EUR,restaurants,main_debit,False,DE,Posted
+2026-05-11T09:01,Starbucks,-3.03,EUR,coffee,main_debit,False,DE,Posted
+2026-05-11T12:30,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-05-11T17:31,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-05-11T21:37,Kaufland,-159.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-12T08:45,Kaufland,-118.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-12T09:28,Balzac Coffee,-3.07,EUR,coffee,main_debit,False,DE,Posted
+2026-05-12T12:05,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-05-12T17:03,Stadtwerke,-17.5,EUR,utilities,main_debit,True,DE,Posted
+2026-05-13T09:51,Starbucks,-3.45,EUR,coffee,main_debit,False,DE,Posted
+2026-05-13T11:47,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-05-13T16:21,Nordsee,-12.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-05-14T10:28,Balzac Coffee,-3.19,EUR,coffee,main_debit,False,DE,Posted
 2026-05-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
-2026-05-14T14:58,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2026-05-15T09:03,Starbucks,-4.29,EUR,coffee,main_debit,False,DE,Posted
-2026-05-15T11:39,Deutsche Bahn,-7.68,EUR,transport,main_debit,False,DE,Posted
-2026-05-15T18:16,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2026-05-16T21:01,Uber Eats,-23.5,EUR,delivery,main_debit,False,DE,Posted
-2026-05-17T08:46,MediaMarkt,-123,EUR,shopping,main_debit,False,DE,Posted
-2026-05-17T21:26,Lieferando,-31,EUR,delivery,main_debit,False,DE,Posted
-2026-05-18T07:01,Starbucks,-5.43,EUR,coffee,main_debit,False,DE,Posted
-2026-05-18T09:46,Rewe,-89.5,EUR,groceries,main_debit,False,DE,Posted
-2026-05-18T17:04,FREE NOW,-11.81,EUR,transport,main_debit,False,DE,Posted
-2026-05-19T09:47,Coffee Fellows,-3.62,EUR,coffee,main_debit,False,DE,Posted
-2026-05-19T10:57,Nordsee,-14.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-05-20T09:13,Balzac Coffee,-5.49,EUR,coffee,main_debit,False,DE,Posted
-2026-05-20T14:36,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2026-05-20T15:32,Zur Linde,-64.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-05-20T21:38,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-05-21T08:29,Balzac Coffee,-3.26,EUR,coffee,main_debit,False,DE,Posted
-2026-05-21T20:43,FREE NOW,-11.14,EUR,transport,main_debit,False,DE,Posted
-2026-05-22T08:03,Balzac Coffee,-5.09,EUR,coffee,main_debit,False,DE,Posted
-2026-05-22T13:30,Lieferando,-33,EUR,delivery,main_debit,False,DE,Posted
-2026-05-22T16:58,FREE NOW,-9.71,EUR,transport,main_debit,False,DE,Posted
-2026-05-23T13:25,Aldi,-56.5,EUR,groceries,main_debit,False,DE,Posted
-2026-05-24T21:23,Lieferando,-19.5,EUR,delivery,main_debit,False,DE,Posted
-2026-05-25T09:15,Starbucks,-5.22,EUR,coffee,main_debit,False,DE,Posted
+2026-05-14T17:25,Apotheke am Markt,-49.15,EUR,health,main_debit,False,DE,Posted
+2026-05-14T17:32,FREE NOW,-4.39,EUR,transport,main_debit,False,DE,Posted
+2026-05-14T20:51,Lidl,-33.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-14T23:27,Wolt,-19,EUR,delivery,main_debit,False,DE,Posted
+2026-05-15T07:17,Starbucks,-5.44,EUR,coffee,main_debit,False,DE,Posted
+2026-05-15T20:54,Deutsche Bahn,-10,EUR,transport,main_debit,False,DE,Posted
+2026-05-16T22:54,Kaufland,-71.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-17T15:28,Zara,-36,EUR,shopping,main_debit,False,DE,Posted
+2026-05-17T15:58,Lidl,-77,EUR,groceries,main_debit,False,DE,Posted
+2026-05-17T19:41,Zur Linde,-45.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-05-17T21:56,Thalia,-6.89,EUR,entertainment,main_debit,False,DE,Posted
+2026-05-18T09:05,Lidl,-40,EUR,groceries,main_debit,False,DE,Posted
+2026-05-18T09:31,Currywurst Bude,-3.25,EUR,restaurants,main_debit,False,DE,Posted
+2026-05-19T09:26,Balzac Coffee,-3.93,EUR,coffee,main_debit,False,DE,Posted
+2026-05-19T09:34,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-05-19T12:00,FREE NOW,-10.39,EUR,transport,main_debit,False,DE,Posted
+2026-05-19T19:32,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-05-20T07:37,Starbucks,-4.99,EUR,coffee,main_debit,False,DE,Posted
+2026-05-20T17:27,Rewe,-92.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-21T07:23,Starbucks,-3.07,EUR,coffee,main_debit,False,DE,Posted
+2026-05-21T08:52,FREE NOW,-10.15,EUR,transport,main_debit,False,DE,Posted
+2026-05-21T22:51,Uber Eats,-15.5,EUR,delivery,main_debit,False,DE,Posted
+2026-05-22T07:30,Coffee Fellows,-4.18,EUR,coffee,main_debit,False,DE,Posted
+2026-05-23T20:46,Currywurst Bude,-4.38,EUR,restaurants,main_debit,False,DE,Posted
+2026-05-23T22:36,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-05-24T20:35,Uber Eats,-29,EUR,delivery,main_debit,False,DE,Posted
+2026-05-25T09:57,Starbucks,-2.69,EUR,coffee,main_debit,False,DE,Posted
 2026-05-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2026-05-25T11:26,Aldi,-117.5,EUR,groceries,main_debit,False,DE,Posted
-2026-05-26T08:37,Starbucks,-2.99,EUR,coffee,main_debit,False,DE,Posted
-2026-05-26T15:32,Aldi,-38.5,EUR,groceries,main_debit,False,DE,Posted
-2026-05-27T08:09,Balzac Coffee,-3.16,EUR,coffee,main_debit,False,DE,Posted
-2026-05-27T09:04,Aldi,-70.5,EUR,groceries,main_debit,False,DE,Posted
-2026-05-28T15:47,Lidl,-36,EUR,groceries,main_debit,False,DE,Posted
-2026-05-29T09:24,Balzac Coffee,-3.77,EUR,coffee,main_debit,False,DE,Posted
-2026-05-30T13:24,Lidl,-57,EUR,groceries,main_debit,False,DE,Posted
-2026-05-30T13:45,Wolt,-13,EUR,delivery,main_debit,False,DE,Posted
-2026-05-31T19:45,Uber Eats,-18,EUR,delivery,main_debit,False,DE,Posted
-2026-06-01T08:59,Coffee Fellows,-3.69,EUR,coffee,main_debit,False,DE,Posted
-2026-06-01T10:01,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-06-02T08:23,Coffee Fellows,-3.11,EUR,coffee,main_debit,False,DE,Posted
-2026-06-02T08:37,C&A,-94,EUR,shopping,main_debit,False,DE,Posted
-2026-06-02T17:09,Kaufland,-116.5,EUR,groceries,main_debit,False,DE,Posted
-2026-06-03T08:37,Coffee Fellows,-2.83,EUR,coffee,main_debit,False,DE,Posted
-2026-06-03T15:18,Zur Linde,-64.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-06-04T10:28,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-06-04T12:56,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2026-06-04T21:36,Wolt,-25.5,EUR,delivery,main_debit,False,DE,Posted
-2026-06-05T09:51,Balzac Coffee,-5.25,EUR,coffee,main_debit,False,DE,Posted
-2026-06-05T10:50,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-06-05T22:13,Rewe,-76.5,EUR,groceries,main_debit,False,DE,Posted
-2026-06-06T12:26,Stadtwerke,-23.5,EUR,utilities,main_debit,True,DE,Posted
-2026-06-06T18:29,Hausarztpraxis Dr. Müller,-123.5,EUR,health,main_debit,False,DE,Posted
-2026-06-06T19:03,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2026-06-06T22:19,Uber Eats,-21,EUR,delivery,main_debit,False,DE,Posted
-2026-06-07T10:08,MediaMarkt,-28,EUR,shopping,main_debit,False,DE,Posted
-2026-06-07T21:53,Rewe,-51.5,EUR,groceries,main_debit,False,DE,Posted
-2026-06-08T08:53,Starbucks,-3.8,EUR,coffee,main_debit,False,DE,Posted
-2026-06-09T07:39,Starbucks,-3.27,EUR,coffee,main_debit,False,DE,Posted
-2026-06-09T13:01,Wolt,-28.5,EUR,delivery,main_debit,False,DE,Posted
-2026-06-10T10:46,Balzac Coffee,-5.36,EUR,coffee,main_debit,False,DE,Posted
-2026-06-10T19:58,Vattenfall,-73,EUR,utilities,main_debit,True,DE,Posted
-2026-06-10T22:07,Kaufland,-167,EUR,groceries,main_debit,False,DE,Posted
-2026-06-11T10:57,Balzac Coffee,-3.44,EUR,coffee,main_debit,False,DE,Posted
-2026-06-11T17:17,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2026-06-11T18:36,Deutsche Bahn,-3.11,EUR,transport,main_debit,False,DE,Posted
-2026-06-12T08:31,Balzac Coffee,-5.11,EUR,coffee,main_debit,False,DE,Posted
-2026-06-12T10:20,Deutsche Bahn,-3.58,EUR,transport,main_debit,False,DE,Posted
-2026-06-12T21:13,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-06-13T22:33,Rewe,-36,EUR,groceries,main_debit,False,DE,Posted
-2026-06-14T12:29,Lieferando,-34,EUR,delivery,main_debit,False,DE,Posted
-2026-06-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
-2026-06-15T08:52,Starbucks,-2.73,EUR,coffee,main_debit,False,DE,Posted
-2026-06-15T13:46,FREE NOW,-11.13,EUR,transport,main_debit,False,DE,Posted
-2026-06-15T18:39,Lidl,-27.5,EUR,groceries,main_debit,False,DE,Posted
-2026-06-15T19:09,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2026-06-16T08:28,Coffee Fellows,-4.36,EUR,coffee,main_debit,False,DE,Posted
-2026-06-16T12:16,Lidl,-61.5,EUR,groceries,main_debit,False,DE,Posted
-2026-06-17T08:16,Balzac Coffee,-3.49,EUR,coffee,main_debit,False,DE,Posted
-2026-06-17T10:05,Zalando,-348.5,EUR,shopping,main_debit,False,DE,Posted
-2026-06-17T16:26,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-06-17T21:35,Apotheke am Markt,-14.57,EUR,health,main_debit,False,DE,Posted
-2026-06-18T10:18,Balzac Coffee,-3.31,EUR,coffee,main_debit,False,DE,Posted
-2026-06-18T18:17,FREE NOW,-5.13,EUR,transport,main_debit,False,DE,Posted
-2026-06-19T07:48,Coffee Fellows,-2.82,EUR,coffee,main_debit,False,DE,Posted
-2026-06-19T09:21,Zalando,-243.5,EUR,shopping,main_debit,False,DE,Posted
-2026-06-19T09:24,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-06-20T09:34,Lidl,-51.5,EUR,groceries,main_debit,False,DE,Posted
-2026-06-21T08:04,AliExpress,-366.5,EUR,shopping,credit_card,False,CN,Posted
-2026-06-21T19:25,Lidl,-73,EUR,groceries,main_debit,False,DE,Posted
-2026-06-22T08:29,Coffee Fellows,-2.73,EUR,coffee,main_debit,False,DE,Posted
-2026-06-23T09:14,Balzac Coffee,-3.47,EUR,coffee,main_debit,False,DE,Posted
-2026-06-23T18:36,Kaufland,-46.5,EUR,groceries,main_debit,False,DE,Posted
-2026-06-24T09:32,Starbucks,-3.36,EUR,coffee,main_debit,False,DE,Posted
-2026-06-25T08:31,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-06-25T08:32,Zur Linde,-25,EUR,restaurants,main_debit,False,DE,Posted
+2026-05-25T20:12,Uber Eats,-18.5,EUR,delivery,main_debit,False,DE,Posted
+2026-05-25T21:35,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-05-26T09:49,Coffee Fellows,-3.82,EUR,coffee,main_debit,False,DE,Posted
+2026-05-26T13:54,Lieferando,-34,EUR,delivery,main_debit,False,DE,Posted
+2026-05-27T14:45,Lidl,-63.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-27T17:57,Currywurst Bude,-4.69,EUR,restaurants,main_debit,False,DE,Posted
+2026-05-27T19:02,Steam,-22,EUR,entertainment,main_debit,False,DE,Posted
+2026-05-27T20:55,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-05-27T22:10,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-05-28T09:37,Starbucks,-3.71,EUR,coffee,main_debit,False,DE,Posted
+2026-05-28T14:43,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2026-05-29T14:58,Apotheke am Markt,-16.09,EUR,health,main_debit,False,DE,Posted
+2026-05-29T21:26,Lidl,-70,EUR,groceries,main_debit,False,DE,Posted
+2026-05-30T11:09,Kaufland,-99.5,EUR,groceries,main_debit,False,DE,Posted
+2026-05-30T14:58,Steam,-18.5,EUR,entertainment,main_debit,False,DE,Posted
+2026-05-30T21:03,Currywurst Bude,-5.84,EUR,restaurants,main_debit,False,DE,Posted
+2026-06-01T07:07,Starbucks,-4.94,EUR,coffee,main_debit,False,DE,Posted
+2026-06-01T08:08,FREE NOW,-7.52,EUR,transport,main_debit,False,DE,Posted
+2026-06-01T17:29,Nordsee,-11.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-06-02T17:16,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-06-03T10:49,Balzac Coffee,-3.21,EUR,coffee,main_debit,False,DE,Posted
+2026-06-03T16:58,Aldi,-46.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-03T18:54,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-06-04T08:10,Starbucks,-4.58,EUR,coffee,main_debit,False,DE,Posted
+2026-06-05T07:45,Starbucks,-5.38,EUR,coffee,main_debit,False,DE,Posted
+2026-06-05T09:39,Deutsche Bahn,-5.32,EUR,transport,main_debit,False,DE,Posted
+2026-06-06T19:27,Rewe,-92.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-06T21:42,Wolt,-24.5,EUR,delivery,main_debit,False,DE,Posted
+2026-06-07T19:48,Uber Eats,-38,EUR,delivery,main_debit,False,DE,Posted
+2026-06-07T21:58,Lidl,-18.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-08T09:15,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-06-08T10:57,Balzac Coffee,-3.35,EUR,coffee,main_debit,False,DE,Posted
+2026-06-08T17:59,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-06-09T07:02,Starbucks,-2.62,EUR,coffee,main_debit,False,DE,Posted
+2026-06-09T08:45,Lidl,-34.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-10T09:58,Starbucks,-4.91,EUR,coffee,main_debit,False,DE,Posted
+2026-06-10T14:54,CinemaxX,-9,EUR,entertainment,main_debit,False,DE,Posted
+2026-06-10T21:28,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-06-11T19:27,Uber Eats,-30,EUR,delivery,main_debit,False,DE,Posted
+2026-06-11T21:22,FREE NOW,-6.15,EUR,transport,main_debit,False,DE,Posted
+2026-06-12T08:59,Starbucks,-3.07,EUR,coffee,main_debit,False,DE,Posted
+2026-06-12T10:08,Kaufland,-76.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-12T16:51,FREE NOW,-4.5,EUR,transport,main_debit,False,DE,Posted
+2026-06-13T22:16,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-06-14T08:07,Rewe,-82,EUR,groceries,main_debit,False,DE,Posted
+2026-06-14T14:00,Credit Card Payment,-473.19,EUR,credit_payment,main_debit,False,DE,Posted
+2026-06-14T20:59,Uber Eats,-19.5,EUR,delivery,main_debit,False,DE,Posted
+2026-06-15T10:58,Balzac Coffee,-5.39,EUR,coffee,main_debit,False,DE,Posted
+2026-06-15T11:56,Vattenfall,-88,EUR,utilities,main_debit,True,DE,Posted
+2026-06-15T12:24,Stadtwerke,-18,EUR,utilities,main_debit,True,DE,Posted
+2026-06-15T16:59,Apotheke am Markt,-27.8,EUR,health,main_debit,False,DE,Posted
+2026-06-15T18:58,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-06-15T22:29,Wolt,-10.5,EUR,delivery,main_debit,False,DE,Posted
+2026-06-16T10:08,Balzac Coffee,-4.68,EUR,coffee,main_debit,False,DE,Posted
+2026-06-16T13:31,Nordsee,-14.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-06-16T17:29,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-06-16T21:47,Rewe,-75.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-17T08:34,Balzac Coffee,-4.89,EUR,coffee,main_debit,False,DE,Posted
+2026-06-17T22:21,C&A,-105.5,EUR,shopping,main_debit,False,DE,Posted
+2026-06-17T22:43,Wolt,-14.5,EUR,delivery,main_debit,False,DE,Posted
+2026-06-18T08:07,Starbucks,-5.13,EUR,coffee,main_debit,False,DE,Posted
+2026-06-18T13:49,Hausarztpraxis Dr. Müller,-79.5,EUR,health,main_debit,False,DE,Posted
+2026-06-19T08:08,Balzac Coffee,-5.77,EUR,coffee,main_debit,False,DE,Posted
+2026-06-19T09:16,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-06-20T19:19,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-06-20T21:48,Uber Eats,-35.5,EUR,delivery,main_debit,False,DE,Posted
+2026-06-21T10:43,FitX,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-06-21T21:29,Zur Linde,-33,EUR,restaurants,main_debit,False,DE,Posted
+2026-06-21T22:40,Aldi,-28.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-22T07:33,Starbucks,-5.23,EUR,coffee,main_debit,False,DE,Posted
+2026-06-22T08:46,Zara,-31.5,EUR,shopping,main_debit,False,DE,Posted
+2026-06-22T22:25,Uber Eats,-20,EUR,delivery,main_debit,False,DE,Posted
+2026-06-23T14:22,Deutsche Bahn,-6.71,EUR,transport,main_debit,False,DE,Posted
+2026-06-23T14:32,Kaufland,-54.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-25T07:14,Starbucks,-2.75,EUR,coffee,main_debit,False,DE,Posted
+2026-06-25T08:44,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2026-06-25T09:48,Deutsche Bahn,-3.3,EUR,transport,main_debit,False,DE,Posted
 2026-06-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2026-06-25T10:56,Balzac Coffee,-3.03,EUR,coffee,main_debit,False,DE,Posted
-2026-06-26T07:42,Starbucks,-3.24,EUR,coffee,main_debit,False,DE,Posted
-2026-06-26T12:37,Zur Linde,-25,EUR,restaurants,main_debit,False,DE,Posted
-2026-06-26T18:42,FREE NOW,-11.11,EUR,transport,main_debit,False,DE,Posted
-2026-06-26T18:42,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2026-06-26T20:18,Aldi,-111,EUR,groceries,main_debit,False,DE,Posted
-2026-06-27T19:00,Kaufland,-91.5,EUR,groceries,main_debit,False,DE,Posted
-2026-06-28T13:22,Wolt,-19,EUR,delivery,main_debit,False,DE,Posted
-2026-06-29T08:31,Coffee Fellows,-2.95,EUR,coffee,main_debit,False,DE,Posted
-2026-06-29T12:18,Zara,-166,EUR,shopping,main_debit,False,DE,Posted
-2026-06-29T13:42,Deutsche Bahn,-3.99,EUR,transport,main_debit,False,DE,Posted
-2026-06-29T15:42,Aldi,-88.5,EUR,groceries,main_debit,False,DE,Posted
-2026-06-30T08:02,Balzac Coffee,-5.76,EUR,coffee,main_debit,False,DE,Posted
-2026-06-30T14:17,FREE NOW,-10.47,EUR,transport,main_debit,False,DE,Posted
-2026-07-01T10:30,Balzac Coffee,-4.94,EUR,coffee,main_debit,False,DE,Posted
-2026-07-02T08:57,Balzac Coffee,-4.03,EUR,coffee,main_debit,False,DE,Posted
-2026-07-02T19:11,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-07-02T21:03,Uber Eats,-20,EUR,delivery,main_debit,False,DE,Posted
-2026-07-03T09:12,Starbucks,-4.16,EUR,coffee,main_debit,False,DE,Posted
-2026-07-03T20:11,Aldi,-69.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-04T08:51,Aldi,-37.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-04T11:26,MediaMarkt,-236.5,EUR,shopping,main_debit,False,DE,Posted
-2026-07-05T14:30,Rewe,-57.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-05T21:08,Wolt,-13.5,EUR,delivery,main_debit,False,DE,Posted
-2026-07-06T08:09,Coffee Fellows,-3.69,EUR,coffee,main_debit,False,DE,Posted
-2026-07-06T12:13,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2026-07-06T17:35,Zalando,-196,EUR,shopping,main_debit,False,DE,Posted
-2026-07-06T17:56,Vattenfall,-55.5,EUR,utilities,main_debit,True,DE,Posted
-2026-07-07T08:55,Starbucks,-5.44,EUR,coffee,main_debit,False,DE,Posted
-2026-07-07T10:01,Currywurst Bude,-3.37,EUR,restaurants,main_debit,False,DE,Posted
-2026-07-07T18:01,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-07-08T08:03,Starbucks,-4.37,EUR,coffee,main_debit,False,DE,Posted
-2026-07-08T12:09,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2026-07-08T22:04,FREE NOW,-6.75,EUR,transport,main_debit,False,DE,Posted
-2026-07-09T07:46,Starbucks,-2.99,EUR,coffee,main_debit,False,DE,Posted
-2026-07-09T19:59,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-07-09T22:51,Uber Eats,-26,EUR,delivery,main_debit,False,DE,Posted
-2026-07-10T08:54,Starbucks,-4.64,EUR,coffee,main_debit,False,DE,Posted
-2026-07-10T19:07,Deutsche Bahn,-6.19,EUR,transport,main_debit,False,DE,Posted
-2026-07-10T19:20,Lidl,-20,EUR,groceries,main_debit,False,DE,Posted
-2026-07-11T11:56,Lidl,-70,EUR,groceries,main_debit,False,DE,Posted
-2026-07-11T18:32,Thalia,-20.42,EUR,entertainment,main_debit,False,DE,Posted
-2026-07-12T14:14,Currywurst Bude,-3.4,EUR,restaurants,main_debit,False,DE,Posted
-2026-07-13T08:23,Coffee Fellows,-4.01,EUR,coffee,main_debit,False,DE,Posted
-2026-07-13T16:57,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2026-07-13T22:06,Aldi,-77,EUR,groceries,main_debit,False,DE,Posted
-2026-07-14T09:18,Balzac Coffee,-5.47,EUR,coffee,main_debit,False,DE,Posted
-2026-07-14T11:14,Lidl,-74.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-14T14:00,Credit Card Payment,-487.79,EUR,credit_payment,main_debit,False,DE,Posted
-2026-07-14T14:37,FREE NOW,-11.87,EUR,transport,main_debit,False,DE,Posted
-2026-07-14T21:42,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
-2026-07-15T08:41,Coffee Fellows,-2.88,EUR,coffee,main_debit,False,DE,Posted
-2026-07-15T14:53,Stadtwerke,-29.5,EUR,utilities,main_debit,True,DE,Posted
-2026-07-15T17:19,Aldi,-33,EUR,groceries,main_debit,False,DE,Posted
-2026-07-15T21:21,Currywurst Bude,-3.8,EUR,restaurants,main_debit,False,DE,Posted
-2026-07-16T08:09,Coffee Fellows,-3.05,EUR,coffee,main_debit,False,DE,Posted
-2026-07-16T15:51,Deutsche Bahn,-6.81,EUR,transport,main_debit,False,DE,Posted
-2026-07-17T08:06,Balzac Coffee,-5.98,EUR,coffee,main_debit,False,DE,Posted
-2026-07-17T10:08,Zalando,-288.5,EUR,shopping,main_debit,False,DE,Posted
-2026-07-17T13:29,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2026-07-18T12:52,Lidl,-68.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-18T19:20,Currywurst Bude,-4.08,EUR,restaurants,main_debit,False,DE,Posted
-2026-07-18T20:18,Steam,-13,EUR,entertainment,main_debit,False,DE,Posted
-2026-07-19T18:31,Currywurst Bude,-3.87,EUR,restaurants,main_debit,False,DE,Posted
-2026-07-20T09:08,Starbucks,-3.19,EUR,coffee,main_debit,False,DE,Posted
-2026-07-20T12:08,Lieferando,-33,EUR,delivery,main_debit,False,DE,Posted
-2026-07-20T13:23,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2026-07-20T17:21,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-07-21T08:18,Zur Linde,-49.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-07-21T08:35,Deutsche Bahn,-7.04,EUR,transport,main_debit,False,DE,Posted
-2026-07-21T08:51,Starbucks,-4.85,EUR,coffee,main_debit,False,DE,Posted
-2026-07-21T16:54,Kaufland,-157.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-21T19:43,Steam,-24.5,EUR,entertainment,main_debit,False,DE,Posted
-2026-07-22T13:31,Zur Linde,-34.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-07-22T13:54,FREE NOW,-6.99,EUR,transport,main_debit,False,DE,Posted
-2026-07-22T20:31,Kaufland,-171.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-23T09:31,Nordsee,-15,EUR,restaurants,main_debit,False,DE,Posted
-2026-07-23T10:25,Deutsche Bahn,-8.92,EUR,transport,main_debit,False,DE,Posted
-2026-07-24T14:09,Kaufland,-56.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-24T20:27,FREE NOW,-3.52,EUR,transport,main_debit,False,DE,Posted
+2026-06-25T19:23,MediaMarkt,-48,EUR,shopping,main_debit,False,DE,Posted
+2026-06-25T21:25,Rewe,-72.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-26T09:09,Coffee Fellows,-3.45,EUR,coffee,main_debit,False,DE,Posted
+2026-06-26T18:26,MediaMarkt,-89,EUR,shopping,main_debit,False,DE,Posted
+2026-06-26T19:51,FREE NOW,-5.07,EUR,transport,main_debit,False,DE,Posted
+2026-06-27T20:53,Lidl,-69.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-28T14:59,Rewe,-69.5,EUR,groceries,main_debit,False,DE,Posted
+2026-06-28T20:11,Apotheke am Markt,-9.82,EUR,health,main_debit,False,DE,Posted
+2026-06-28T20:26,Uber Eats,-34,EUR,delivery,main_debit,False,DE,Posted
+2026-06-29T09:20,Starbucks,-4.11,EUR,coffee,main_debit,False,DE,Posted
+2026-06-30T07:32,Coffee Fellows,-3.2,EUR,coffee,main_debit,False,DE,Posted
+2026-07-01T08:00,Coffee Fellows,-3.58,EUR,coffee,main_debit,False,DE,Posted
+2026-07-01T15:14,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-07-01T15:41,Lidl,-16,EUR,groceries,main_debit,False,DE,Posted
+2026-07-01T20:52,Uber Eats,-40,EUR,delivery,main_debit,False,DE,Posted
+2026-07-02T08:56,Coffee Fellows,-2.7,EUR,coffee,main_debit,False,DE,Posted
+2026-07-02T15:19,Kaufland,-105.5,EUR,groceries,main_debit,False,DE,Posted
+2026-07-02T22:40,FREE NOW,-4.69,EUR,transport,main_debit,False,DE,Posted
+2026-07-03T09:40,Starbucks,-4.02,EUR,coffee,main_debit,False,DE,Posted
+2026-07-03T13:43,Lidl,-77,EUR,groceries,main_debit,False,DE,Posted
+2026-07-04T17:12,Aldi,-110.5,EUR,groceries,main_debit,False,DE,Posted
+2026-07-05T08:41,Aldi,-88,EUR,groceries,main_debit,False,DE,Posted
+2026-07-05T15:15,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2026-07-05T21:40,Uber Eats,-32,EUR,delivery,main_debit,False,DE,Posted
+2026-07-06T08:22,Balzac Coffee,-5.2,EUR,coffee,main_debit,False,DE,Posted
+2026-07-06T21:21,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-07-07T08:21,Balzac Coffee,-5.3,EUR,coffee,main_debit,False,DE,Posted
+2026-07-08T07:28,Coffee Fellows,-3.04,EUR,coffee,main_debit,False,DE,Posted
+2026-07-08T11:13,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-07-08T15:37,Deutsche Bahn,-4.83,EUR,transport,main_debit,False,DE,Posted
+2026-07-08T21:05,Kaufland,-147.5,EUR,groceries,main_debit,False,DE,Posted
+2026-07-09T09:51,Balzac Coffee,-5.87,EUR,coffee,main_debit,False,DE,Posted
+2026-07-09T10:06,FREE NOW,-9.99,EUR,transport,main_debit,False,DE,Posted
+2026-07-09T13:35,Stadtwerke,-22,EUR,utilities,main_debit,True,DE,Posted
+2026-07-10T19:06,FREE NOW,-8.1,EUR,transport,main_debit,False,DE,Posted
+2026-07-11T16:24,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-07-11T21:15,Aldi,-113.5,EUR,groceries,main_debit,False,DE,Posted
+2026-07-11T22:31,Lieferando,-23,EUR,delivery,main_debit,False,DE,Posted
+2026-07-12T20:57,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-07-13T18:04,Deutsche Bahn,-9.47,EUR,transport,main_debit,False,DE,Posted
+2026-07-14T08:58,Vattenfall,-65.5,EUR,utilities,main_debit,True,DE,Posted
+2026-07-14T09:18,Coffee Fellows,-2.65,EUR,coffee,main_debit,False,DE,Posted
+2026-07-14T12:54,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-07-14T13:53,Currywurst Bude,-3.83,EUR,restaurants,main_debit,False,DE,Posted
+2026-07-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
+2026-07-14T15:03,Rewe,-56.5,EUR,groceries,main_debit,False,DE,Posted
+2026-07-15T09:32,Coffee Fellows,-3.38,EUR,coffee,main_debit,False,DE,Posted
+2026-07-15T20:53,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-07-16T07:12,Coffee Fellows,-4.1,EUR,coffee,main_debit,False,DE,Posted
+2026-07-16T08:08,MediaMarkt,-29.5,EUR,shopping,main_debit,False,DE,Posted
+2026-07-17T09:36,Aldi,-45,EUR,groceries,main_debit,False,DE,Posted
+2026-07-17T22:07,Zalando,-370.5,EUR,shopping,main_debit,False,DE,Posted
+2026-07-20T09:48,Balzac Coffee,-5.6,EUR,coffee,main_debit,False,DE,Posted
+2026-07-20T22:27,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-07-21T09:45,Lidl,-49,EUR,groceries,main_debit,False,DE,Posted
+2026-07-22T07:29,Coffee Fellows,-3.97,EUR,coffee,main_debit,False,DE,Posted
+2026-07-22T12:29,FREE NOW,-4.39,EUR,transport,main_debit,False,DE,Posted
+2026-07-22T15:32,Zur Linde,-46,EUR,restaurants,main_debit,False,DE,Posted
+2026-07-22T17:43,Rewe,-63.5,EUR,groceries,main_debit,False,DE,Posted
+2026-07-23T10:10,Balzac Coffee,-5.89,EUR,coffee,main_debit,False,DE,Posted
+2026-07-23T12:12,Rewe,-76.5,EUR,groceries,main_debit,False,DE,Posted
+2026-07-23T13:32,FREE NOW,-4.33,EUR,transport,main_debit,False,DE,Posted
+2026-07-24T09:03,Starbucks,-4.29,EUR,coffee,main_debit,False,DE,Posted
+2026-07-24T11:39,Deutsche Bahn,-7.68,EUR,transport,main_debit,False,DE,Posted
 2026-07-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
-2026-07-25T11:19,Aldi,-41.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-25T20:34,Uber Eats,-17.5,EUR,delivery,main_debit,False,DE,Posted
-2026-07-26T10:07,Lidl,-36.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-26T10:46,Nordsee,-11.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-07-27T09:04,Starbucks,-4.48,EUR,coffee,main_debit,False,DE,Posted
-2026-07-27T11:36,Lidl,-70.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-27T14:51,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-07-28T09:31,Starbucks,-5.33,EUR,coffee,main_debit,False,DE,Posted
-2026-07-28T13:28,Deutsche Bahn,-6.19,EUR,transport,main_debit,False,DE,Posted
-2026-07-28T17:26,Aldi,-94.5,EUR,groceries,main_debit,False,DE,Posted
-2026-07-29T08:22,Balzac Coffee,-5.96,EUR,coffee,main_debit,False,DE,Posted
-2026-07-30T08:16,Balzac Coffee,-3.88,EUR,coffee,main_debit,False,DE,Posted
-2026-07-30T15:20,FREE NOW,-6.44,EUR,transport,main_debit,False,DE,Posted
-2026-07-31T09:23,Coffee Fellows,-2.81,EUR,coffee,main_debit,False,DE,Posted
-2026-08-01T15:12,Thalia,-19.15,EUR,entertainment,main_debit,False,DE,Posted
-2026-08-02T10:33,Kaufland,-60,EUR,groceries,main_debit,False,DE,Posted
-2026-08-02T16:25,Booking.com,-794.5,EUR,travel,credit_card,False,NL,Posted
-2026-08-03T08:08,Zalando,-283,EUR,shopping,main_debit,False,DE,Posted
-2026-08-03T08:27,Coffee Fellows,-3.52,EUR,coffee,main_debit,False,DE,Posted
-2026-08-03T15:44,FREE NOW,-4.34,EUR,transport,main_debit,False,DE,Posted
-2026-08-04T07:08,Starbucks,-2.57,EUR,coffee,main_debit,False,DE,Posted
-2026-08-04T10:37,FREE NOW,-11.83,EUR,transport,main_debit,False,DE,Posted
-2026-08-04T22:28,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
-2026-08-05T09:06,Balzac Coffee,-3.29,EUR,coffee,main_debit,False,DE,Posted
-2026-08-05T11:03,Lidl,-34,EUR,groceries,main_debit,False,DE,Posted
-2026-08-05T18:44,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
-2026-08-06T08:07,Balzac Coffee,-5.04,EUR,coffee,main_debit,False,DE,Posted
-2026-08-06T09:59,Deutsche Bahn,-3.73,EUR,transport,main_debit,False,DE,Posted
-2026-08-06T13:33,Rewe,-91,EUR,groceries,main_debit,False,DE,Posted
-2026-08-07T07:22,Coffee Fellows,-3.96,EUR,coffee,main_debit,False,DE,Posted
-2026-08-07T08:07,Deutsche Bahn,-9.98,EUR,transport,main_debit,False,DE,Posted
-2026-08-07T10:08,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
-2026-08-07T11:32,Hausarztpraxis Dr. Müller,-177.5,EUR,health,main_debit,False,DE,Posted
-2026-08-07T18:13,Zara,-138,EUR,shopping,main_debit,False,DE,Posted
-2026-08-07T21:16,Lieferando,-32,EUR,delivery,main_debit,False,DE,Posted
-2026-08-08T20:14,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
-2026-08-08T21:58,Currywurst Bude,-5.9,EUR,restaurants,main_debit,False,DE,Posted
-2026-08-09T09:27,Aldi,-25,EUR,groceries,main_debit,False,DE,Posted
-2026-08-09T11:36,Vattenfall,-64,EUR,utilities,main_debit,True,DE,Posted
-2026-08-09T13:31,Nordsee,-17.5,EUR,restaurants,main_debit,False,DE,Posted
-2026-08-09T22:15,Thalia,-6,EUR,entertainment,main_debit,False,DE,Posted
-2026-08-10T08:30,Starbucks,-4.31,EUR,coffee,main_debit,False,DE,Posted
-2026-08-10T12:33,FREE NOW,-11.28,EUR,transport,main_debit,False,DE,Posted
-2026-08-11T11:21,Deutsche Bahn,-4.84,EUR,transport,main_debit,False,DE,Posted
-2026-08-12T08:49,Starbucks,-3.29,EUR,coffee,main_debit,False,DE,Posted
-2026-08-12T21:46,Uber Eats,-38,EUR,delivery,main_debit,False,DE,Posted
-2026-08-13T08:41,Starbucks,-5.36,EUR,coffee,main_debit,False,DE,Posted
-2026-08-13T13:11,Deutsche Bahn,-7.15,EUR,transport,main_debit,False,DE,Posted
-2026-08-13T13:16,Rewe,-29.5,EUR,groceries,main_debit,False,DE,Posted
-2026-08-14T07:36,Starbucks,-4.06,EUR,coffee,main_debit,False,DE,Posted
+2026-07-25T21:01,Uber Eats,-23.5,EUR,delivery,main_debit,False,DE,Posted
+2026-07-26T08:46,MediaMarkt,-123,EUR,shopping,main_debit,False,DE,Posted
+2026-07-26T10:01,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-07-26T21:26,Lieferando,-31,EUR,delivery,main_debit,False,DE,Posted
+2026-07-27T07:01,Starbucks,-5.43,EUR,coffee,main_debit,False,DE,Posted
+2026-07-27T09:46,Rewe,-89.5,EUR,groceries,main_debit,False,DE,Posted
+2026-07-27T17:04,FREE NOW,-11.81,EUR,transport,main_debit,False,DE,Posted
+2026-07-28T09:47,Coffee Fellows,-3.62,EUR,coffee,main_debit,False,DE,Posted
+2026-07-28T10:57,Nordsee,-14.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-07-29T09:13,Balzac Coffee,-5.49,EUR,coffee,main_debit,False,DE,Posted
+2026-07-29T15:32,Zur Linde,-64.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-07-29T21:38,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-07-30T08:29,Balzac Coffee,-3.26,EUR,coffee,main_debit,False,DE,Posted
+2026-07-30T20:43,FREE NOW,-11.14,EUR,transport,main_debit,False,DE,Posted
+2026-07-31T08:03,Balzac Coffee,-5.09,EUR,coffee,main_debit,False,DE,Posted
+2026-07-31T13:30,Lieferando,-33,EUR,delivery,main_debit,False,DE,Posted
+2026-07-31T16:58,FREE NOW,-9.71,EUR,transport,main_debit,False,DE,Posted
+2026-08-01T13:25,Aldi,-56.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-02T21:23,Lieferando,-19.5,EUR,delivery,main_debit,False,DE,Posted
+2026-08-03T09:15,Starbucks,-5.22,EUR,coffee,main_debit,False,DE,Posted
+2026-08-03T11:26,Aldi,-117.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-04T08:37,Starbucks,-2.99,EUR,coffee,main_debit,False,DE,Posted
+2026-08-04T15:32,Aldi,-38.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-04T21:16,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-08-05T08:09,Balzac Coffee,-3.16,EUR,coffee,main_debit,False,DE,Posted
+2026-08-05T09:04,Aldi,-70.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-06T15:47,Lidl,-36,EUR,groceries,main_debit,False,DE,Posted
+2026-08-07T09:24,Balzac Coffee,-3.77,EUR,coffee,main_debit,False,DE,Posted
+2026-08-08T13:24,Lidl,-57,EUR,groceries,main_debit,False,DE,Posted
+2026-08-08T13:45,Wolt,-13,EUR,delivery,main_debit,False,DE,Posted
+2026-08-09T08:28,Stadtwerke,-25,EUR,utilities,main_debit,True,DE,Posted
+2026-08-09T19:45,Uber Eats,-18,EUR,delivery,main_debit,False,DE,Posted
+2026-08-10T08:59,Coffee Fellows,-3.69,EUR,coffee,main_debit,False,DE,Posted
+2026-08-10T10:01,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-08-11T08:23,Coffee Fellows,-3.11,EUR,coffee,main_debit,False,DE,Posted
+2026-08-11T08:37,C&A,-94,EUR,shopping,main_debit,False,DE,Posted
+2026-08-11T17:09,Kaufland,-116.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-12T08:37,Coffee Fellows,-2.83,EUR,coffee,main_debit,False,DE,Posted
+2026-08-12T15:18,Zur Linde,-64.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-08-13T10:28,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-08-13T21:36,Wolt,-25.5,EUR,delivery,main_debit,False,DE,Posted
+2026-08-14T09:51,Balzac Coffee,-5.25,EUR,coffee,main_debit,False,DE,Posted
+2026-08-14T10:50,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
 2026-08-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
-2026-08-15T14:53,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
-2026-08-15T16:42,Stadtwerke,-16.5,EUR,utilities,main_debit,True,DE,Posted
-2026-08-15T17:27,Thalia,-12.68,EUR,entertainment,main_debit,False,DE,Posted
-2026-08-17T10:12,Deutsche Bahn,-5.79,EUR,transport,main_debit,False,DE,Posted
-2026-08-18T10:09,Balzac Coffee,-4.02,EUR,coffee,main_debit,False,DE,Posted
-2026-08-19T09:44,Starbucks,-3.13,EUR,coffee,main_debit,False,DE,Posted
-2026-08-19T21:32,Aldi,-84.5,EUR,groceries,main_debit,False,DE,Posted
-2026-08-20T09:37,Starbucks,-5.31,EUR,coffee,main_debit,False,DE,Posted
-2026-08-20T09:37,FREE NOW,-11.89,EUR,transport,main_debit,False,DE,Posted
-2026-08-20T15:44,Steam,-46.5,EUR,entertainment,main_debit,False,DE,Posted
-2026-08-20T19:59,MediaMarkt,-156.5,EUR,shopping,main_debit,False,DE,Posted
-2026-08-21T08:53,Coffee Fellows,-4.02,EUR,coffee,main_debit,False,DE,Posted
-2026-08-21T17:12,Lidl,-20.5,EUR,groceries,main_debit,False,DE,Posted
-2026-08-21T22:48,Wolt,-26,EUR,delivery,main_debit,False,DE,Posted
-2026-08-23T13:40,Wolt,-11,EUR,delivery,main_debit,False,DE,Posted
-2026-08-23T14:38,Lidl,-49.5,EUR,groceries,main_debit,False,DE,Posted
-2026-08-24T14:50,Kaufland,-106.5,EUR,groceries,main_debit,False,DE,Posted
-2026-08-24T16:44,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
-2026-08-24T22:16,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-08-14T15:21,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-08-14T18:57,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-08-14T22:05,Vattenfall,-80,EUR,utilities,main_debit,True,DE,Posted
+2026-08-14T22:13,Rewe,-76.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-15T12:58,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-08-15T18:29,Hausarztpraxis Dr. Müller,-123.5,EUR,health,main_debit,False,DE,Posted
+2026-08-15T22:19,Uber Eats,-21,EUR,delivery,main_debit,False,DE,Posted
+2026-08-16T10:08,MediaMarkt,-28,EUR,shopping,main_debit,False,DE,Posted
+2026-08-16T21:53,Rewe,-51.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-17T08:53,Starbucks,-3.8,EUR,coffee,main_debit,False,DE,Posted
+2026-08-18T07:39,Starbucks,-3.27,EUR,coffee,main_debit,False,DE,Posted
+2026-08-18T13:01,Wolt,-28.5,EUR,delivery,main_debit,False,DE,Posted
+2026-08-19T10:46,Balzac Coffee,-5.36,EUR,coffee,main_debit,False,DE,Posted
+2026-08-19T16:48,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2026-08-19T22:07,Kaufland,-167,EUR,groceries,main_debit,False,DE,Posted
+2026-08-20T10:57,Balzac Coffee,-3.44,EUR,coffee,main_debit,False,DE,Posted
+2026-08-20T15:45,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-08-20T18:36,Deutsche Bahn,-3.11,EUR,transport,main_debit,False,DE,Posted
+2026-08-21T08:31,Balzac Coffee,-5.11,EUR,coffee,main_debit,False,DE,Posted
+2026-08-21T10:20,Deutsche Bahn,-3.58,EUR,transport,main_debit,False,DE,Posted
+2026-08-22T22:33,Rewe,-36,EUR,groceries,main_debit,False,DE,Posted
+2026-08-23T12:29,Lieferando,-34,EUR,delivery,main_debit,False,DE,Posted
+2026-08-24T08:52,Starbucks,-2.73,EUR,coffee,main_debit,False,DE,Posted
+2026-08-24T13:46,FREE NOW,-11.13,EUR,transport,main_debit,False,DE,Posted
+2026-08-24T18:39,Lidl,-27.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-25T08:28,Coffee Fellows,-4.36,EUR,coffee,main_debit,False,DE,Posted
+2026-08-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
+2026-08-25T12:16,Lidl,-61.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-26T08:16,Balzac Coffee,-3.49,EUR,coffee,main_debit,False,DE,Posted
+2026-08-26T10:05,Zalando,-348.5,EUR,shopping,main_debit,False,DE,Posted
+2026-08-26T16:26,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-08-26T21:35,Apotheke am Markt,-14.57,EUR,health,main_debit,False,DE,Posted
+2026-08-27T10:18,Balzac Coffee,-3.31,EUR,coffee,main_debit,False,DE,Posted
+2026-08-27T18:17,FREE NOW,-5.13,EUR,transport,main_debit,False,DE,Posted
+2026-08-28T07:48,Coffee Fellows,-2.82,EUR,coffee,main_debit,False,DE,Posted
+2026-08-28T09:21,Zalando,-243.5,EUR,shopping,main_debit,False,DE,Posted
+2026-08-28T09:24,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-08-28T13:39,Booking.com,-885,EUR,travel,credit_card,False,NL,Posted
+2026-08-29T09:34,Lidl,-51.5,EUR,groceries,main_debit,False,DE,Posted
+2026-08-30T19:25,Lidl,-73,EUR,groceries,main_debit,False,DE,Posted
+2026-08-31T08:29,Coffee Fellows,-2.73,EUR,coffee,main_debit,False,DE,Posted
+2026-09-01T09:14,Balzac Coffee,-3.47,EUR,coffee,main_debit,False,DE,Posted
+2026-09-01T18:36,Kaufland,-46.5,EUR,groceries,main_debit,False,DE,Posted
+2026-09-02T09:32,Starbucks,-3.36,EUR,coffee,main_debit,False,DE,Posted
+2026-09-03T08:31,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-09-03T08:32,Zur Linde,-25,EUR,restaurants,main_debit,False,DE,Posted
+2026-09-03T10:56,Balzac Coffee,-3.03,EUR,coffee,main_debit,False,DE,Posted
+2026-09-04T07:42,Starbucks,-3.24,EUR,coffee,main_debit,False,DE,Posted
+2026-09-04T12:37,Zur Linde,-25,EUR,restaurants,main_debit,False,DE,Posted
+2026-09-04T18:42,FREE NOW,-11.11,EUR,transport,main_debit,False,DE,Posted
+2026-09-04T20:18,Aldi,-111,EUR,groceries,main_debit,False,DE,Posted
+2026-09-05T11:24,Vattenfall,-87.5,EUR,utilities,main_debit,True,DE,Posted
+2026-09-05T19:00,Kaufland,-91.5,EUR,groceries,main_debit,False,DE,Posted
+2026-09-06T13:22,Wolt,-19,EUR,delivery,main_debit,False,DE,Posted
+2026-09-06T15:06,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-09-07T08:31,Coffee Fellows,-2.95,EUR,coffee,main_debit,False,DE,Posted
+2026-09-07T12:18,Zara,-166,EUR,shopping,main_debit,False,DE,Posted
+2026-09-07T13:42,Deutsche Bahn,-3.99,EUR,transport,main_debit,False,DE,Posted
+2026-09-07T15:42,Aldi,-88.5,EUR,groceries,main_debit,False,DE,Posted
+2026-09-08T08:02,Balzac Coffee,-5.76,EUR,coffee,main_debit,False,DE,Posted
+2026-09-08T14:17,FREE NOW,-10.47,EUR,transport,main_debit,False,DE,Posted
+2026-09-08T17:10,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted
+2026-09-09T10:30,Balzac Coffee,-4.94,EUR,coffee,main_debit,False,DE,Posted
+2026-09-09T17:30,Stadtwerke,-24.5,EUR,utilities,main_debit,True,DE,Posted
+2026-09-10T08:57,Balzac Coffee,-4.03,EUR,coffee,main_debit,False,DE,Posted
+2026-09-10T19:11,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-09-10T21:03,Uber Eats,-20,EUR,delivery,main_debit,False,DE,Posted
+2026-09-11T08:19,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-09-11T09:12,Starbucks,-4.16,EUR,coffee,main_debit,False,DE,Posted
+2026-09-11T20:11,Aldi,-69.5,EUR,groceries,main_debit,False,DE,Posted
+2026-09-12T08:51,Aldi,-37.5,EUR,groceries,main_debit,False,DE,Posted
+2026-09-12T11:26,MediaMarkt,-236.5,EUR,shopping,main_debit,False,DE,Posted
+2026-09-12T11:40,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-09-13T08:46,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-09-13T13:09,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-09-13T14:30,Rewe,-57.5,EUR,groceries,main_debit,False,DE,Posted
+2026-09-13T21:08,Wolt,-13.5,EUR,delivery,main_debit,False,DE,Posted
+2026-09-14T08:09,Coffee Fellows,-3.69,EUR,coffee,main_debit,False,DE,Posted
+2026-09-14T14:00,Credit Card Payment,-402.19,EUR,credit_payment,main_debit,False,DE,Posted
+2026-09-14T17:35,Zalando,-196,EUR,shopping,main_debit,False,DE,Posted
+2026-09-15T08:55,Starbucks,-5.44,EUR,coffee,main_debit,False,DE,Posted
+2026-09-15T10:01,Currywurst Bude,-3.37,EUR,restaurants,main_debit,False,DE,Posted
+2026-09-15T18:01,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-09-16T08:03,Starbucks,-4.37,EUR,coffee,main_debit,False,DE,Posted
+2026-09-16T22:04,FREE NOW,-6.75,EUR,transport,main_debit,False,DE,Posted
+2026-09-17T07:46,Starbucks,-2.99,EUR,coffee,main_debit,False,DE,Posted
+2026-09-17T19:59,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-09-17T22:51,Uber Eats,-26,EUR,delivery,main_debit,False,DE,Posted
+2026-09-18T08:54,Starbucks,-4.64,EUR,coffee,main_debit,False,DE,Posted
+2026-09-18T19:07,Deutsche Bahn,-6.19,EUR,transport,main_debit,False,DE,Posted
+2026-09-18T19:20,Lidl,-20,EUR,groceries,main_debit,False,DE,Posted
+2026-09-19T11:56,Lidl,-70,EUR,groceries,main_debit,False,DE,Posted
+2026-09-19T18:32,Thalia,-20.42,EUR,entertainment,main_debit,False,DE,Posted
+2026-09-20T14:14,Currywurst Bude,-3.4,EUR,restaurants,main_debit,False,DE,Posted
+2026-09-21T08:23,Coffee Fellows,-4.01,EUR,coffee,main_debit,False,DE,Posted
+2026-09-21T22:06,Aldi,-77,EUR,groceries,main_debit,False,DE,Posted
+2026-09-22T09:18,Balzac Coffee,-5.47,EUR,coffee,main_debit,False,DE,Posted
+2026-09-22T11:14,Lidl,-74.5,EUR,groceries,main_debit,False,DE,Posted
+2026-09-22T14:37,FREE NOW,-11.87,EUR,transport,main_debit,False,DE,Posted
+2026-09-23T08:41,Coffee Fellows,-2.88,EUR,coffee,main_debit,False,DE,Posted
+2026-09-23T17:19,Aldi,-33,EUR,groceries,main_debit,False,DE,Posted
+2026-09-23T21:21,Currywurst Bude,-3.8,EUR,restaurants,main_debit,False,DE,Posted
+2026-09-24T08:09,Coffee Fellows,-3.05,EUR,coffee,main_debit,False,DE,Posted
+2026-09-24T15:51,Deutsche Bahn,-6.81,EUR,transport,main_debit,False,DE,Posted
+2026-09-25T08:06,Balzac Coffee,-5.98,EUR,coffee,main_debit,False,DE,Posted
+2026-09-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
+2026-09-25T10:08,Zalando,-288.5,EUR,shopping,main_debit,False,DE,Posted
+2026-09-26T12:52,Lidl,-68.5,EUR,groceries,main_debit,False,DE,Posted
+2026-09-26T19:20,Currywurst Bude,-4.08,EUR,restaurants,main_debit,False,DE,Posted
+2026-09-26T20:18,Steam,-13,EUR,entertainment,main_debit,False,DE,Posted
+2026-09-27T18:31,Currywurst Bude,-3.87,EUR,restaurants,main_debit,False,DE,Posted
+2026-09-28T09:08,Starbucks,-3.19,EUR,coffee,main_debit,False,DE,Posted
+2026-09-28T12:08,Lieferando,-33,EUR,delivery,main_debit,False,DE,Posted
+2026-09-28T17:21,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-09-29T08:18,Zur Linde,-49.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-09-29T08:35,Deutsche Bahn,-7.04,EUR,transport,main_debit,False,DE,Posted
+2026-09-29T08:51,Starbucks,-4.85,EUR,coffee,main_debit,False,DE,Posted
+2026-09-29T16:54,Kaufland,-157.5,EUR,groceries,main_debit,False,DE,Posted
+2026-09-29T19:43,Steam,-24.5,EUR,entertainment,main_debit,False,DE,Posted
+2026-09-30T13:31,Zur Linde,-34.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-09-30T13:54,FREE NOW,-6.99,EUR,transport,main_debit,False,DE,Posted
+2026-09-30T20:31,Kaufland,-171.5,EUR,groceries,main_debit,False,DE,Posted
+2026-10-01T09:31,Nordsee,-15,EUR,restaurants,main_debit,False,DE,Posted
+2026-10-01T10:25,Deutsche Bahn,-8.92,EUR,transport,main_debit,False,DE,Posted
+2026-10-02T14:09,Kaufland,-56.5,EUR,groceries,main_debit,False,DE,Posted
+2026-10-02T20:27,FREE NOW,-3.52,EUR,transport,main_debit,False,DE,Posted
+2026-10-03T11:19,Aldi,-41.5,EUR,groceries,main_debit,False,DE,Posted
+2026-10-03T20:34,Uber Eats,-17.5,EUR,delivery,main_debit,False,DE,Posted
+2026-10-04T10:07,Lidl,-36.5,EUR,groceries,main_debit,False,DE,Posted
+2026-10-04T10:46,Nordsee,-11.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-10-05T09:04,Starbucks,-4.48,EUR,coffee,main_debit,False,DE,Posted
+2026-10-05T11:36,Lidl,-70.5,EUR,groceries,main_debit,False,DE,Posted
+2026-10-05T14:51,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-10-06T09:31,Starbucks,-5.33,EUR,coffee,main_debit,False,DE,Posted
+2026-10-06T13:28,Deutsche Bahn,-6.19,EUR,transport,main_debit,False,DE,Posted
+2026-10-06T17:26,Aldi,-94.5,EUR,groceries,main_debit,False,DE,Posted
+2026-10-07T08:22,Balzac Coffee,-5.96,EUR,coffee,main_debit,False,DE,Posted
+2026-10-08T08:16,Balzac Coffee,-3.88,EUR,coffee,main_debit,False,DE,Posted
+2026-10-08T15:20,FREE NOW,-6.44,EUR,transport,main_debit,False,DE,Posted
+2026-10-09T09:23,Coffee Fellows,-2.81,EUR,coffee,main_debit,False,DE,Posted
+2026-10-09T09:40,Vattenfall,-70.5,EUR,utilities,main_debit,True,DE,Posted
+2026-10-09T13:59,Stadtwerke,-19,EUR,utilities,main_debit,True,DE,Posted
+2026-10-10T11:52,Vodafone,-8,EUR,utilities,main_debit,True,DE,Posted
+2026-10-10T15:12,Thalia,-19.15,EUR,entertainment,main_debit,False,DE,Posted
+2026-10-10T18:16,Telekom,-12,EUR,utilities,main_debit,True,DE,Posted
+2026-10-11T10:33,Kaufland,-60,EUR,groceries,main_debit,False,DE,Posted
+2026-10-12T08:08,Zalando,-283,EUR,shopping,main_debit,False,DE,Posted
+2026-10-12T08:27,Coffee Fellows,-3.52,EUR,coffee,main_debit,False,DE,Posted
+2026-10-12T15:44,FREE NOW,-4.34,EUR,transport,main_debit,False,DE,Posted
+2026-10-13T07:08,Starbucks,-2.57,EUR,coffee,main_debit,False,DE,Posted
+2026-10-13T10:37,FREE NOW,-11.83,EUR,transport,main_debit,False,DE,Posted
+2026-10-14T09:06,Balzac Coffee,-3.29,EUR,coffee,main_debit,False,DE,Posted
+2026-10-14T11:03,Lidl,-34,EUR,groceries,main_debit,False,DE,Posted
+2026-10-14T14:00,Credit Card Payment,-50,EUR,credit_payment,main_debit,False,DE,Posted
+2026-10-14T18:44,BVG,-3.5,EUR,transport,main_debit,False,DE,Posted
+2026-10-14T19:50,Netflix,-12,EUR,subscriptions,main_debit,True,DE,Posted
+2026-10-15T08:07,Balzac Coffee,-5.04,EUR,coffee,main_debit,False,DE,Posted
+2026-10-15T09:59,Deutsche Bahn,-3.73,EUR,transport,main_debit,False,DE,Posted
+2026-10-15T13:33,Rewe,-91,EUR,groceries,main_debit,False,DE,Posted
+2026-10-16T07:22,Coffee Fellows,-3.96,EUR,coffee,main_debit,False,DE,Posted
+2026-10-16T08:07,Deutsche Bahn,-9.98,EUR,transport,main_debit,False,DE,Posted
+2026-10-16T11:32,Hausarztpraxis Dr. Müller,-177.5,EUR,health,main_debit,False,DE,Posted
+2026-10-16T18:13,Zara,-138,EUR,shopping,main_debit,False,DE,Posted
+2026-10-16T21:16,Lieferando,-32,EUR,delivery,main_debit,False,DE,Posted
+2026-10-17T21:58,Currywurst Bude,-5.9,EUR,restaurants,main_debit,False,DE,Posted
+2026-10-18T09:27,Aldi,-25,EUR,groceries,main_debit,False,DE,Posted
+2026-10-18T13:31,Nordsee,-17.5,EUR,restaurants,main_debit,False,DE,Posted
+2026-10-18T19:49,Apple One,-15,EUR,subscriptions,main_debit,True,DE,Posted
+2026-10-18T22:15,Thalia,-6,EUR,entertainment,main_debit,False,DE,Posted
+2026-10-19T08:30,Starbucks,-4.31,EUR,coffee,main_debit,False,DE,Posted
+2026-10-19T12:33,FREE NOW,-11.28,EUR,transport,main_debit,False,DE,Posted
+2026-10-20T11:21,Deutsche Bahn,-4.84,EUR,transport,main_debit,False,DE,Posted
+2026-10-21T08:49,Starbucks,-3.29,EUR,coffee,main_debit,False,DE,Posted
+2026-10-21T21:46,Uber Eats,-38,EUR,delivery,main_debit,False,DE,Posted
+2026-10-22T08:41,Starbucks,-5.36,EUR,coffee,main_debit,False,DE,Posted
+2026-10-22T13:11,Deutsche Bahn,-7.15,EUR,transport,main_debit,False,DE,Posted
+2026-10-22T13:16,Rewe,-29.5,EUR,groceries,main_debit,False,DE,Posted
+2026-10-23T07:36,Starbucks,-4.06,EUR,coffee,main_debit,False,DE,Posted
+2026-10-23T18:48,Spotify,-5,EUR,subscriptions,main_debit,True,DE,Posted
+2026-10-24T17:27,Thalia,-12.68,EUR,entertainment,main_debit,False,DE,Posted
+2026-10-25T10:00,Muster GmbH,2400,EUR,salary,main_debit,True,DE,Posted
+2026-10-26T10:12,Deutsche Bahn,-5.79,EUR,transport,main_debit,False,DE,Posted
+2026-10-27T10:09,Balzac Coffee,-4.02,EUR,coffee,main_debit,False,DE,Posted
+2026-10-27T14:02,iCloud Storage,-3,EUR,subscriptions,main_debit,True,DE,Posted

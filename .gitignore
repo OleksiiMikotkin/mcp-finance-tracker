@@ -17,6 +17,9 @@ Thumbs.db
 ## Secrets
 .env
 
+## Claude Code local settings
+.claude/settings.local.json
+
 ## Runtime data
 *.db
 *.db-shm
